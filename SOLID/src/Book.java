@@ -1,5 +1,6 @@
 
 public class Book {
+	
 	String author;
 	int publishedYear;
 	double price;

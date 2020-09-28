@@ -1,10 +1,10 @@
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class MainTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		// SRP
 		
 //		Book b1 = new Book("doyung",2000,10000,"1234");
 //		Book b2 = new Book("dosdos",2010,17000,"1412412");
@@ -27,6 +27,23 @@ public class MainTest {
 		manager.load();
 		manager.show();
 		
+		// OCP
+		System.out.println("version1 OCP - violation");
+		Door door = new PushDoor();
+		if( door instanceof AutomaticDoor) {
+			((AutomaticDoor)door).pressOpen();
+		} else if ( door instanceof KnobDoor) {
+			((KnobDoor)door).pressOpen();
+		} else if ( door instanceof PushDoor) {
+			((PushDoor)door).pressOpen();
+		} else if ( door instanceof SlidingDoor) {
+			((SlidingDoor)door).slideOpen();
+		}
+		
+		Door[] doors = {new PushDoor(),new AutomaticDoor(),new KnobDoor(), new SlidingDoor()};
+		for(Door d:doors) {
+			d.open();
+		}
 	}
 
 }
