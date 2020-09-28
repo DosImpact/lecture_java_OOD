@@ -1,0 +1,21 @@
+
+public class EconomicPrinter implements IDevice{
+
+	@Override
+	public void print() {
+		// TODO Auto-generated method stub
+		System.out.println("print");
+	}
+
+	@Override
+	public void fax() {
+	
+	}
+
+	@Override
+	public void scan() {
+	;
+	}
+
+	
+}

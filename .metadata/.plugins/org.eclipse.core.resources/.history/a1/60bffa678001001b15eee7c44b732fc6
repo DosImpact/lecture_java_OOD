@@ -1,0 +1,6 @@
+
+public interface IPrinter {
+	void print();
+	void fax();
+	void scan();
+}

@@ -44,6 +44,29 @@ public class MainTest {
 		for(Door d:doors) {
 			d.open();
 		}
+		
+		
+		// ISP violation
+		System.out.println("IDevice");
+		AllInOnePrinter printer_a = new AllInOnePrinter();
+		printer_a.print();
+		printer_a.fax();
+		printer_a.scan();
+		
+		EconomicPrinter print_ac = new EconomicPrinter();
+		print_ac.print();
+		print_ac.fax();
+		print_ac.scan();
+		// ISP 
+		
+		System.out.println("IDeive > IPrinter, IFax, IScan");
+		AllInOnePrinter2 printer_b = new AllInOnePrinter2();
+		printer_b.print();
+		printer_b.fax();
+		printer_b.scan();
+	
+		EconomicPrinter2 printer_bc = new EconomicPrinter2();
+		printer_bc.print();
+	
 	}
-
 }
