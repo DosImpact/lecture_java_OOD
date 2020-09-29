@@ -1,7 +1,7 @@
 
 package file;
 
-
+//재너릭 Comparator인터페이스 구현 >  Comparator<FileInfo> > 타입 비교
 public class TypeComparator implements Comparator<FileInfo> {
 
 	@Override

@@ -67,7 +67,7 @@ public class MainTest {
 		}
 		
 		// sorter 객체를 생성합니다.
-		Sorter  sorter = new Sorter();
+		Sorter<FileInfo>  sorter = new Sorter<FileInfo>();
 		
 		
 		// sorter 객체에 , filename 으로 정렬하는 정책을 셋팅합니다. 정렬 후 결과값을 출력합니다.
