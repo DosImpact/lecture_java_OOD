@@ -6,11 +6,13 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="slideOpen"/>
+		<item key="selection" value="E"/>
 		<list key="findhistory">
+			<item value="FileInfo"/>
 			<item value="pressOpen"/>
 		</list>
 		<list key="replacehistory">
+			<item value="E"/>
 			<item value="slideOpen"/>
 		</list>
 	</section>
