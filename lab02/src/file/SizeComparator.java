@@ -1,10 +1,10 @@
 package file;
 
-public class SizeComparator implements Comparator<Long> {
+
+public class SizeComparator implements Comparator<FileInfo> {
 
 	@Override
-	public int compare(Long o1, Long o2) {
-		return (int) (o1- o2);
+	public int compare(FileInfo o1, FileInfo o2) {
+		return (int) (o1.getSize() - o2.getSize());
 	}
-
 }

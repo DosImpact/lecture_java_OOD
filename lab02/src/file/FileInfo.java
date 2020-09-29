@@ -2,7 +2,8 @@ package file;
 
 import java.util.Date;
 
-public class FileInfo {
+
+public class FileInfo  implements Comparable<FileInfo>{
 	private String filename;
 	private String type;
 	private long size;
@@ -31,8 +32,13 @@ public class FileInfo {
 	
 	@Override
 	public String toString() {
-		return "FileInfo [filename=" + filename + ", type=" + type + ", size=" + size + ", modifiedDate=" + modifiedDate
-				+ "]";
+		return "FileInfo [ type=" + type + ",\t size=" + size + ",\t modifiedDate=" + modifiedDate
++ ",\t filename=" +  filename + "]" ;
+	}
+	@Override
+	public int compareTo(FileInfo o) {
+		// TODO Auto-generated method stub
+		return this.getFilename().compareTo(o.getFilename()); 
 	}
 
 }

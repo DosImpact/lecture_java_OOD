@@ -1,16 +1,26 @@
 package file;
 import java.io.File;
+import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class MainTest {
 	
-	private FileInfo[] fileList;
+	public ArrayList<FileInfo> fileList = new ArrayList<FileInfo>();
 	// 파일 info 배열 출력
-	public void printFileInfos(FileInfo[] fileList) {
-		
+	public FileInfo[] printFileInfos() {
+		FileInfo[] fi = new FileInfo[this.fileList.size()];
+		fi = (FileInfo[]) this.fileList.toArray(fi);
+		return fi;
 	}
+	
 	// 파일 info objet get
 	public FileInfo getFileInfo(String filename) {
+		for(FileInfo f : fileList) {
+			if(f.getFilename() == filename) {
+				return f;
+			}
+		}
 		return null;
 	}
 
@@ -20,24 +30,81 @@ public class MainTest {
 		File dir = new File(dirPath);
 		File[] sub =  dir.listFiles();
 		for(File s :sub) {
+			
 			// 디렉터리인 경우 해당 경로로 들어가서 파일과 디렉터리를 읽습니다.
 			if(s.isDirectory()) {
 				System.out.println("<DIR>\t"+s.length()+"\t\t"+s.lastModified()+"\t\t"+s.getName());
+				String path = dirPath+"\\"+s.getName();
+				String type = "<DIR>";
+				fileList.add(new FileInfo(path, type, s.length(), new Date(s.lastModified())));
 				getFileInfos(dirPath+"\\"+s.getName());
 			// 파일인 경우에는 리스트에 추가합니다.
-			}else {
-				System.out.println("<FILE>\t"+s.length()+"\t\t"+s.lastModified()+"\t\t"+s.getName());				
+			} else {
+				System.out.println("<FILE>\t"+s.length()+"\t\t"+s.lastModified()+"\t\t"+s.getName());
+				String path = dirPath+"\\"+s.getName();
+				String type = s.getName().substring(s.getName().lastIndexOf(".")+1);
+				fileList.add(new FileInfo(path,type, s.length(), new Date(s.lastModified())));
 			}
 		}
 		return null;
 	}
 	
 	
-	
 	public static void main(String[] args) {
+		
 		MainTest mt = new MainTest();
 		
-		mt.getFileInfos("D:\\Java_Lectrue\\Strategy\\bin");
+		mt.getFileInfos("D:\\Java_Lectrue\\Strategy");
+		System.out.println("\n\n원본 리스트");
+		
+		FileInfo[]  fi = null ;
+		fi = mt.printFileInfos();
+		for(FileInfo f:fi) {
+			System.out.println(f);
+		}
+		
+		Sorter  sorter = new Sorter();
+		
+		
+		System.out.println("\n\n파일 이름으로 정렬된 리스트");
+		sorter.setComparator(new FilenameComparator());
+		
+		fi = mt.printFileInfos();
+		sorter.bubbleSort(fi);
+		for(FileInfo f:fi) {
+			System.out.println(f);
+		}
+		
+		
+		System.out.println("\n\n파일 종류로 정렬된 리스트");
+		sorter.setComparator(new TypeComparator());
+		
+		fi = mt.printFileInfos();
+		sorter.bubbleSort(fi);
+		for(FileInfo f:fi) {
+			System.out.println(f);
+		}
+		
+		
+		System.out.println("\n\n파일 크기로 정렬된 리스트");
+		sorter.setComparator(new SizeComparator());
+		
+		fi = mt.printFileInfos();
+		sorter.bubbleSort(fi);
+		for(FileInfo f:fi) {
+			System.out.println(f);
+		}
+		
+		
+		System.out.println("\n\n파일 수정 시간으로 정렬된 리스트");
+		sorter.setComparator(new DateComparator());
+		
+		fi = mt.printFileInfos();
+		sorter.bubbleSort(fi);
+		for(FileInfo f:fi) {
+			System.out.println(f);
+		}
+		
 	}
 	
 

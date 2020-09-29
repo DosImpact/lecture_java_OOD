@@ -1,0 +1,393 @@
+<FILE>	301		1601346582657		.classpath
+<FILE>	6		1601346582807		.gitignore
+<FILE>	690		1601347709910		.project
+<DIR>	0		1601346582649		.settings
+<FILE>	598		1601346582669		org.eclipse.jdt.core.prefs
+<DIR>	0		1601355486893		bin
+<DIR>	4096		1601349477314		Duck
+<FILE>	481		1601349700249		DecoyDuck.class
+<FILE>	1506		1601349707298		Duck.class
+<FILE>	128		1601347710679		FlyBehavior.class
+<FILE>	502		1601347710682		FlyNOWay.class
+<FILE>	521		1601347710692		FlyWithWings.class
+<FILE>	904		1601349770894		MainTest.class
+<FILE>	674		1601349579968		MallerDuck.class
+<FILE>	487		1601347772422		Quack.class
+<FILE>	134		1601347710696		QuackBehavior.class
+<FILE>	677		1601349780562		RedheadDuck.class
+<FILE>	536		1601349461833		RocketPoweredFly.class
+<FILE>	580		1601349585513		RubberDuck.class
+<FILE>	499		1601347785355		Squeak.class
+<DIR>	4096		1601354788311		remen
+<FILE>	544		1601354611161		CheeseRemenRecipe.class
+<FILE>	548		1601354545727		GeneralRemanRecipe.class
+<FILE>	973		1601354922984		MainTest.class
+<FILE>	536		1601354641428		MilkRamenRecipe.class
+<FILE>	764		1601354777384		Ramen.class
+<FILE>	572		1601354584675		RamenWithoutBrothReciple.class
+<FILE>	120		1601354491007		Recipe.class
+<FILE>	552		1601354626068		VinegarRamenReciple.class
+<DIR>	0		1601355963809		sort
+<FILE>	687		1601355621084		AgeComparator.class
+<FILE>	1271		1601356188259		MainTest.class
+<FILE>	778		1601366249278		NameComparator.class
+<FILE>	1381		1601366145434		Person.class
+<DIR>	0		1601355486788		src
+<DIR>	4096		1601349477139		Duck
+<FILE>	149		1601349699712		DecoyDuck.java
+<FILE>	904		1601349706696		Duck.java
+<FILE>	66		1601347380314		FlyBehavior.java
+<FILE>	146		1601347664830		FlyNOWay.java
+<FILE>	157		1601347636580		FlyWithWings.java
+<FILE>	588		1601349770358		MainTest.java
+<FILE>	266		1601349579438		MallerDuck.java
+<FILE>	184		1601347771878		Quack.java
+<FILE>	70		1601347350158		QuackBehavior.java
+<FILE>	268		1601349779958		RedheadDuck.java
+<FILE>	164		1601349460903		RocketPoweredFly.java
+<FILE>	227		1601349585031		RubberDuck.java
+<FILE>	186		1601347784759		Squeak.java
+<DIR>	4096		1601354788161		remen
+<FILE>	166		1601354610376		CheeseRemenRecipe.java
+<FILE>	168		1601354545183		GeneralRemanRecipe.java
+<FILE>	412		1601354922448		MainTest.java
+<FILE>	162		1601354640435		MilkRamenRecipe.java
+<FILE>	384		1601354776837		Ramen.java
+<FILE>	180		1601354583774		RamenWithoutBrothReciple.java
+<FILE>	63		1601354490463		Recipe.java
+<FILE>	170		1601354625081		VinegarRamenReciple.java
+<DIR>	0		1601355963607		sort
+<FILE>	253		1601355620541		AgeComparator.java
+<FILE>	716		1601356187767		MainTest.java
+<FILE>	226		1601366248302		NameComparator.java
+<FILE>	661		1601366144689		Person.java
+
+
+원본 리스트
+FileInfo [ type=classpath,	 size=301,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.classpath]
+FileInfo [ type=gitignore,	 size=6,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.gitignore]
+FileInfo [ type=project,	 size=690,	 modifiedDate=Tue Sep 29 11:48:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.project]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings]
+FileInfo [ type=prefs,	 size=598,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings\org.eclipse.jdt.core.prefs]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck]
+FileInfo [ type=class,	 size=481,	 modifiedDate=Tue Sep 29 12:21:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\DecoyDuck.class]
+FileInfo [ type=class,	 size=1506,	 modifiedDate=Tue Sep 29 12:21:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Duck.class]
+FileInfo [ type=class,	 size=128,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyBehavior.class]
+FileInfo [ type=class,	 size=502,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyNOWay.class]
+FileInfo [ type=class,	 size=521,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyWithWings.class]
+FileInfo [ type=class,	 size=904,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MainTest.class]
+FileInfo [ type=class,	 size=674,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MallerDuck.class]
+FileInfo [ type=class,	 size=487,	 modifiedDate=Tue Sep 29 11:49:32 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Quack.class]
+FileInfo [ type=class,	 size=134,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\QuackBehavior.class]
+FileInfo [ type=class,	 size=677,	 modifiedDate=Tue Sep 29 12:23:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RedheadDuck.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 12:17:41 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RocketPoweredFly.class]
+FileInfo [ type=class,	 size=580,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RubberDuck.class]
+FileInfo [ type=class,	 size=499,	 modifiedDate=Tue Sep 29 11:49:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Squeak.class]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen]
+FileInfo [ type=class,	 size=544,	 modifiedDate=Tue Sep 29 13:43:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\CheeseRemenRecipe.class]
+FileInfo [ type=class,	 size=548,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\GeneralRemanRecipe.class]
+FileInfo [ type=class,	 size=973,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MainTest.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 13:44:01 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MilkRamenRecipe.class]
+FileInfo [ type=class,	 size=764,	 modifiedDate=Tue Sep 29 13:46:17 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Ramen.class]
+FileInfo [ type=class,	 size=572,	 modifiedDate=Tue Sep 29 13:43:04 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\RamenWithoutBrothReciple.class]
+FileInfo [ type=class,	 size=120,	 modifiedDate=Tue Sep 29 13:41:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Recipe.class]
+FileInfo [ type=class,	 size=552,	 modifiedDate=Tue Sep 29 13:43:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\VinegarRamenReciple.class]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort]
+FileInfo [ type=class,	 size=687,	 modifiedDate=Tue Sep 29 14:00:21 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\AgeComparator.class]
+FileInfo [ type=class,	 size=1271,	 modifiedDate=Tue Sep 29 14:09:48 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\MainTest.class]
+FileInfo [ type=class,	 size=778,	 modifiedDate=Tue Sep 29 16:57:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\NameComparator.class]
+FileInfo [ type=class,	 size=1381,	 modifiedDate=Tue Sep 29 16:55:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\Person.class]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck]
+FileInfo [ type=java,	 size=149,	 modifiedDate=Tue Sep 29 12:21:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\DecoyDuck.java]
+FileInfo [ type=java,	 size=904,	 modifiedDate=Tue Sep 29 12:21:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Duck.java]
+FileInfo [ type=java,	 size=66,	 modifiedDate=Tue Sep 29 11:43:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyBehavior.java]
+FileInfo [ type=java,	 size=146,	 modifiedDate=Tue Sep 29 11:47:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyNOWay.java]
+FileInfo [ type=java,	 size=157,	 modifiedDate=Tue Sep 29 11:47:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyWithWings.java]
+FileInfo [ type=java,	 size=588,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MainTest.java]
+FileInfo [ type=java,	 size=266,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MallerDuck.java]
+FileInfo [ type=java,	 size=184,	 modifiedDate=Tue Sep 29 11:49:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Quack.java]
+FileInfo [ type=java,	 size=70,	 modifiedDate=Tue Sep 29 11:42:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\QuackBehavior.java]
+FileInfo [ type=java,	 size=268,	 modifiedDate=Tue Sep 29 12:22:59 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RedheadDuck.java]
+FileInfo [ type=java,	 size=164,	 modifiedDate=Tue Sep 29 12:17:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RocketPoweredFly.java]
+FileInfo [ type=java,	 size=227,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RubberDuck.java]
+FileInfo [ type=java,	 size=186,	 modifiedDate=Tue Sep 29 11:49:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Squeak.java]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen]
+FileInfo [ type=java,	 size=166,	 modifiedDate=Tue Sep 29 13:43:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\CheeseRemenRecipe.java]
+FileInfo [ type=java,	 size=168,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\GeneralRemanRecipe.java]
+FileInfo [ type=java,	 size=412,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MainTest.java]
+FileInfo [ type=java,	 size=162,	 modifiedDate=Tue Sep 29 13:44:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MilkRamenRecipe.java]
+FileInfo [ type=java,	 size=384,	 modifiedDate=Tue Sep 29 13:46:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Ramen.java]
+FileInfo [ type=java,	 size=180,	 modifiedDate=Tue Sep 29 13:43:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\RamenWithoutBrothReciple.java]
+FileInfo [ type=java,	 size=63,	 modifiedDate=Tue Sep 29 13:41:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Recipe.java]
+FileInfo [ type=java,	 size=170,	 modifiedDate=Tue Sep 29 13:43:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\VinegarRamenReciple.java]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort]
+FileInfo [ type=java,	 size=253,	 modifiedDate=Tue Sep 29 14:00:20 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\AgeComparator.java]
+FileInfo [ type=java,	 size=716,	 modifiedDate=Tue Sep 29 14:09:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\MainTest.java]
+FileInfo [ type=java,	 size=226,	 modifiedDate=Tue Sep 29 16:57:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\NameComparator.java]
+FileInfo [ type=java,	 size=661,	 modifiedDate=Tue Sep 29 16:55:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\Person.java]
+
+
+파일 이름으로 정렬된 리스트
+FileInfo [ type=classpath,	 size=301,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.classpath]
+FileInfo [ type=gitignore,	 size=6,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.gitignore]
+FileInfo [ type=project,	 size=690,	 modifiedDate=Tue Sep 29 11:48:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.project]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings]
+FileInfo [ type=prefs,	 size=598,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings\org.eclipse.jdt.core.prefs]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck]
+FileInfo [ type=class,	 size=481,	 modifiedDate=Tue Sep 29 12:21:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\DecoyDuck.class]
+FileInfo [ type=class,	 size=1506,	 modifiedDate=Tue Sep 29 12:21:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Duck.class]
+FileInfo [ type=class,	 size=128,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyBehavior.class]
+FileInfo [ type=class,	 size=502,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyNOWay.class]
+FileInfo [ type=class,	 size=521,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyWithWings.class]
+FileInfo [ type=class,	 size=904,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MainTest.class]
+FileInfo [ type=class,	 size=674,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MallerDuck.class]
+FileInfo [ type=class,	 size=487,	 modifiedDate=Tue Sep 29 11:49:32 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Quack.class]
+FileInfo [ type=class,	 size=134,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\QuackBehavior.class]
+FileInfo [ type=class,	 size=677,	 modifiedDate=Tue Sep 29 12:23:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RedheadDuck.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 12:17:41 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RocketPoweredFly.class]
+FileInfo [ type=class,	 size=580,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RubberDuck.class]
+FileInfo [ type=class,	 size=499,	 modifiedDate=Tue Sep 29 11:49:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Squeak.class]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen]
+FileInfo [ type=class,	 size=544,	 modifiedDate=Tue Sep 29 13:43:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\CheeseRemenRecipe.class]
+FileInfo [ type=class,	 size=548,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\GeneralRemanRecipe.class]
+FileInfo [ type=class,	 size=973,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MainTest.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 13:44:01 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MilkRamenRecipe.class]
+FileInfo [ type=class,	 size=764,	 modifiedDate=Tue Sep 29 13:46:17 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Ramen.class]
+FileInfo [ type=class,	 size=572,	 modifiedDate=Tue Sep 29 13:43:04 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\RamenWithoutBrothReciple.class]
+FileInfo [ type=class,	 size=120,	 modifiedDate=Tue Sep 29 13:41:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Recipe.class]
+FileInfo [ type=class,	 size=552,	 modifiedDate=Tue Sep 29 13:43:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\VinegarRamenReciple.class]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort]
+FileInfo [ type=class,	 size=687,	 modifiedDate=Tue Sep 29 14:00:21 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\AgeComparator.class]
+FileInfo [ type=class,	 size=1271,	 modifiedDate=Tue Sep 29 14:09:48 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\MainTest.class]
+FileInfo [ type=class,	 size=778,	 modifiedDate=Tue Sep 29 16:57:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\NameComparator.class]
+FileInfo [ type=class,	 size=1381,	 modifiedDate=Tue Sep 29 16:55:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\Person.class]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck]
+FileInfo [ type=java,	 size=149,	 modifiedDate=Tue Sep 29 12:21:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\DecoyDuck.java]
+FileInfo [ type=java,	 size=904,	 modifiedDate=Tue Sep 29 12:21:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Duck.java]
+FileInfo [ type=java,	 size=66,	 modifiedDate=Tue Sep 29 11:43:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyBehavior.java]
+FileInfo [ type=java,	 size=146,	 modifiedDate=Tue Sep 29 11:47:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyNOWay.java]
+FileInfo [ type=java,	 size=157,	 modifiedDate=Tue Sep 29 11:47:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyWithWings.java]
+FileInfo [ type=java,	 size=588,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MainTest.java]
+FileInfo [ type=java,	 size=266,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MallerDuck.java]
+FileInfo [ type=java,	 size=184,	 modifiedDate=Tue Sep 29 11:49:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Quack.java]
+FileInfo [ type=java,	 size=70,	 modifiedDate=Tue Sep 29 11:42:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\QuackBehavior.java]
+FileInfo [ type=java,	 size=268,	 modifiedDate=Tue Sep 29 12:22:59 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RedheadDuck.java]
+FileInfo [ type=java,	 size=164,	 modifiedDate=Tue Sep 29 12:17:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RocketPoweredFly.java]
+FileInfo [ type=java,	 size=227,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RubberDuck.java]
+FileInfo [ type=java,	 size=186,	 modifiedDate=Tue Sep 29 11:49:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Squeak.java]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen]
+FileInfo [ type=java,	 size=166,	 modifiedDate=Tue Sep 29 13:43:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\CheeseRemenRecipe.java]
+FileInfo [ type=java,	 size=168,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\GeneralRemanRecipe.java]
+FileInfo [ type=java,	 size=412,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MainTest.java]
+FileInfo [ type=java,	 size=162,	 modifiedDate=Tue Sep 29 13:44:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MilkRamenRecipe.java]
+FileInfo [ type=java,	 size=384,	 modifiedDate=Tue Sep 29 13:46:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Ramen.java]
+FileInfo [ type=java,	 size=180,	 modifiedDate=Tue Sep 29 13:43:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\RamenWithoutBrothReciple.java]
+FileInfo [ type=java,	 size=63,	 modifiedDate=Tue Sep 29 13:41:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Recipe.java]
+FileInfo [ type=java,	 size=170,	 modifiedDate=Tue Sep 29 13:43:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\VinegarRamenReciple.java]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort]
+FileInfo [ type=java,	 size=253,	 modifiedDate=Tue Sep 29 14:00:20 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\AgeComparator.java]
+FileInfo [ type=java,	 size=716,	 modifiedDate=Tue Sep 29 14:09:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\MainTest.java]
+FileInfo [ type=java,	 size=226,	 modifiedDate=Tue Sep 29 16:57:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\NameComparator.java]
+FileInfo [ type=java,	 size=661,	 modifiedDate=Tue Sep 29 16:55:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\Person.java]
+
+
+파일 종류로 정렬된 리스트
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort]
+FileInfo [ type=class,	 size=481,	 modifiedDate=Tue Sep 29 12:21:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\DecoyDuck.class]
+FileInfo [ type=class,	 size=1506,	 modifiedDate=Tue Sep 29 12:21:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Duck.class]
+FileInfo [ type=class,	 size=128,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyBehavior.class]
+FileInfo [ type=class,	 size=502,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyNOWay.class]
+FileInfo [ type=class,	 size=521,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyWithWings.class]
+FileInfo [ type=class,	 size=904,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MainTest.class]
+FileInfo [ type=class,	 size=674,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MallerDuck.class]
+FileInfo [ type=class,	 size=487,	 modifiedDate=Tue Sep 29 11:49:32 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Quack.class]
+FileInfo [ type=class,	 size=134,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\QuackBehavior.class]
+FileInfo [ type=class,	 size=677,	 modifiedDate=Tue Sep 29 12:23:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RedheadDuck.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 12:17:41 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RocketPoweredFly.class]
+FileInfo [ type=class,	 size=580,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RubberDuck.class]
+FileInfo [ type=class,	 size=499,	 modifiedDate=Tue Sep 29 11:49:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Squeak.class]
+FileInfo [ type=class,	 size=544,	 modifiedDate=Tue Sep 29 13:43:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\CheeseRemenRecipe.class]
+FileInfo [ type=class,	 size=548,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\GeneralRemanRecipe.class]
+FileInfo [ type=class,	 size=973,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MainTest.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 13:44:01 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MilkRamenRecipe.class]
+FileInfo [ type=class,	 size=764,	 modifiedDate=Tue Sep 29 13:46:17 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Ramen.class]
+FileInfo [ type=class,	 size=572,	 modifiedDate=Tue Sep 29 13:43:04 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\RamenWithoutBrothReciple.class]
+FileInfo [ type=class,	 size=120,	 modifiedDate=Tue Sep 29 13:41:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Recipe.class]
+FileInfo [ type=class,	 size=552,	 modifiedDate=Tue Sep 29 13:43:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\VinegarRamenReciple.class]
+FileInfo [ type=class,	 size=687,	 modifiedDate=Tue Sep 29 14:00:21 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\AgeComparator.class]
+FileInfo [ type=class,	 size=1271,	 modifiedDate=Tue Sep 29 14:09:48 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\MainTest.class]
+FileInfo [ type=class,	 size=778,	 modifiedDate=Tue Sep 29 16:57:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\NameComparator.class]
+FileInfo [ type=class,	 size=1381,	 modifiedDate=Tue Sep 29 16:55:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\Person.class]
+FileInfo [ type=classpath,	 size=301,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.classpath]
+FileInfo [ type=gitignore,	 size=6,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.gitignore]
+FileInfo [ type=java,	 size=149,	 modifiedDate=Tue Sep 29 12:21:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\DecoyDuck.java]
+FileInfo [ type=java,	 size=904,	 modifiedDate=Tue Sep 29 12:21:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Duck.java]
+FileInfo [ type=java,	 size=66,	 modifiedDate=Tue Sep 29 11:43:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyBehavior.java]
+FileInfo [ type=java,	 size=146,	 modifiedDate=Tue Sep 29 11:47:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyNOWay.java]
+FileInfo [ type=java,	 size=157,	 modifiedDate=Tue Sep 29 11:47:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyWithWings.java]
+FileInfo [ type=java,	 size=588,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MainTest.java]
+FileInfo [ type=java,	 size=266,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MallerDuck.java]
+FileInfo [ type=java,	 size=184,	 modifiedDate=Tue Sep 29 11:49:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Quack.java]
+FileInfo [ type=java,	 size=70,	 modifiedDate=Tue Sep 29 11:42:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\QuackBehavior.java]
+FileInfo [ type=java,	 size=268,	 modifiedDate=Tue Sep 29 12:22:59 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RedheadDuck.java]
+FileInfo [ type=java,	 size=164,	 modifiedDate=Tue Sep 29 12:17:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RocketPoweredFly.java]
+FileInfo [ type=java,	 size=227,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RubberDuck.java]
+FileInfo [ type=java,	 size=186,	 modifiedDate=Tue Sep 29 11:49:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Squeak.java]
+FileInfo [ type=java,	 size=166,	 modifiedDate=Tue Sep 29 13:43:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\CheeseRemenRecipe.java]
+FileInfo [ type=java,	 size=168,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\GeneralRemanRecipe.java]
+FileInfo [ type=java,	 size=412,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MainTest.java]
+FileInfo [ type=java,	 size=162,	 modifiedDate=Tue Sep 29 13:44:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MilkRamenRecipe.java]
+FileInfo [ type=java,	 size=384,	 modifiedDate=Tue Sep 29 13:46:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Ramen.java]
+FileInfo [ type=java,	 size=180,	 modifiedDate=Tue Sep 29 13:43:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\RamenWithoutBrothReciple.java]
+FileInfo [ type=java,	 size=63,	 modifiedDate=Tue Sep 29 13:41:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Recipe.java]
+FileInfo [ type=java,	 size=170,	 modifiedDate=Tue Sep 29 13:43:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\VinegarRamenReciple.java]
+FileInfo [ type=java,	 size=253,	 modifiedDate=Tue Sep 29 14:00:20 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\AgeComparator.java]
+FileInfo [ type=java,	 size=716,	 modifiedDate=Tue Sep 29 14:09:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\MainTest.java]
+FileInfo [ type=java,	 size=226,	 modifiedDate=Tue Sep 29 16:57:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\NameComparator.java]
+FileInfo [ type=java,	 size=661,	 modifiedDate=Tue Sep 29 16:55:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\Person.java]
+FileInfo [ type=prefs,	 size=598,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings\org.eclipse.jdt.core.prefs]
+FileInfo [ type=project,	 size=690,	 modifiedDate=Tue Sep 29 11:48:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.project]
+
+
+파일 크기로 정렬된 리스트
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort]
+FileInfo [ type=gitignore,	 size=6,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.gitignore]
+FileInfo [ type=java,	 size=63,	 modifiedDate=Tue Sep 29 13:41:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Recipe.java]
+FileInfo [ type=java,	 size=66,	 modifiedDate=Tue Sep 29 11:43:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyBehavior.java]
+FileInfo [ type=java,	 size=70,	 modifiedDate=Tue Sep 29 11:42:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\QuackBehavior.java]
+FileInfo [ type=class,	 size=120,	 modifiedDate=Tue Sep 29 13:41:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Recipe.class]
+FileInfo [ type=class,	 size=128,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyBehavior.class]
+FileInfo [ type=class,	 size=134,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\QuackBehavior.class]
+FileInfo [ type=java,	 size=146,	 modifiedDate=Tue Sep 29 11:47:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyNOWay.java]
+FileInfo [ type=java,	 size=149,	 modifiedDate=Tue Sep 29 12:21:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\DecoyDuck.java]
+FileInfo [ type=java,	 size=157,	 modifiedDate=Tue Sep 29 11:47:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyWithWings.java]
+FileInfo [ type=java,	 size=162,	 modifiedDate=Tue Sep 29 13:44:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MilkRamenRecipe.java]
+FileInfo [ type=java,	 size=164,	 modifiedDate=Tue Sep 29 12:17:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RocketPoweredFly.java]
+FileInfo [ type=java,	 size=166,	 modifiedDate=Tue Sep 29 13:43:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\CheeseRemenRecipe.java]
+FileInfo [ type=java,	 size=168,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\GeneralRemanRecipe.java]
+FileInfo [ type=java,	 size=170,	 modifiedDate=Tue Sep 29 13:43:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\VinegarRamenReciple.java]
+FileInfo [ type=java,	 size=180,	 modifiedDate=Tue Sep 29 13:43:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\RamenWithoutBrothReciple.java]
+FileInfo [ type=java,	 size=184,	 modifiedDate=Tue Sep 29 11:49:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Quack.java]
+FileInfo [ type=java,	 size=186,	 modifiedDate=Tue Sep 29 11:49:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Squeak.java]
+FileInfo [ type=java,	 size=226,	 modifiedDate=Tue Sep 29 16:57:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\NameComparator.java]
+FileInfo [ type=java,	 size=227,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RubberDuck.java]
+FileInfo [ type=java,	 size=253,	 modifiedDate=Tue Sep 29 14:00:20 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\AgeComparator.java]
+FileInfo [ type=java,	 size=266,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MallerDuck.java]
+FileInfo [ type=java,	 size=268,	 modifiedDate=Tue Sep 29 12:22:59 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RedheadDuck.java]
+FileInfo [ type=classpath,	 size=301,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.classpath]
+FileInfo [ type=java,	 size=384,	 modifiedDate=Tue Sep 29 13:46:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Ramen.java]
+FileInfo [ type=java,	 size=412,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MainTest.java]
+FileInfo [ type=class,	 size=481,	 modifiedDate=Tue Sep 29 12:21:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\DecoyDuck.class]
+FileInfo [ type=class,	 size=487,	 modifiedDate=Tue Sep 29 11:49:32 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Quack.class]
+FileInfo [ type=class,	 size=499,	 modifiedDate=Tue Sep 29 11:49:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Squeak.class]
+FileInfo [ type=class,	 size=502,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyNOWay.class]
+FileInfo [ type=class,	 size=521,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyWithWings.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 12:17:41 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RocketPoweredFly.class]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 13:44:01 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MilkRamenRecipe.class]
+FileInfo [ type=class,	 size=544,	 modifiedDate=Tue Sep 29 13:43:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\CheeseRemenRecipe.class]
+FileInfo [ type=class,	 size=548,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\GeneralRemanRecipe.class]
+FileInfo [ type=class,	 size=552,	 modifiedDate=Tue Sep 29 13:43:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\VinegarRamenReciple.class]
+FileInfo [ type=class,	 size=572,	 modifiedDate=Tue Sep 29 13:43:04 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\RamenWithoutBrothReciple.class]
+FileInfo [ type=class,	 size=580,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RubberDuck.class]
+FileInfo [ type=java,	 size=588,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MainTest.java]
+FileInfo [ type=prefs,	 size=598,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings\org.eclipse.jdt.core.prefs]
+FileInfo [ type=java,	 size=661,	 modifiedDate=Tue Sep 29 16:55:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\Person.java]
+FileInfo [ type=class,	 size=674,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MallerDuck.class]
+FileInfo [ type=class,	 size=677,	 modifiedDate=Tue Sep 29 12:23:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RedheadDuck.class]
+FileInfo [ type=class,	 size=687,	 modifiedDate=Tue Sep 29 14:00:21 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\AgeComparator.class]
+FileInfo [ type=project,	 size=690,	 modifiedDate=Tue Sep 29 11:48:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.project]
+FileInfo [ type=java,	 size=716,	 modifiedDate=Tue Sep 29 14:09:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\MainTest.java]
+FileInfo [ type=class,	 size=764,	 modifiedDate=Tue Sep 29 13:46:17 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Ramen.class]
+FileInfo [ type=class,	 size=778,	 modifiedDate=Tue Sep 29 16:57:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\NameComparator.class]
+FileInfo [ type=class,	 size=904,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MainTest.class]
+FileInfo [ type=java,	 size=904,	 modifiedDate=Tue Sep 29 12:21:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Duck.java]
+FileInfo [ type=class,	 size=973,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MainTest.class]
+FileInfo [ type=class,	 size=1271,	 modifiedDate=Tue Sep 29 14:09:48 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\MainTest.class]
+FileInfo [ type=class,	 size=1381,	 modifiedDate=Tue Sep 29 16:55:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\Person.class]
+FileInfo [ type=class,	 size=1506,	 modifiedDate=Tue Sep 29 12:21:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Duck.class]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen]
+
+
+파일 수정 시간으로 정렬된 리스트
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings]
+FileInfo [ type=classpath,	 size=301,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.classpath]
+FileInfo [ type=prefs,	 size=598,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.settings\org.eclipse.jdt.core.prefs]
+FileInfo [ type=gitignore,	 size=6,	 modifiedDate=Tue Sep 29 11:29:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.gitignore]
+FileInfo [ type=java,	 size=70,	 modifiedDate=Tue Sep 29 11:42:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\QuackBehavior.java]
+FileInfo [ type=java,	 size=66,	 modifiedDate=Tue Sep 29 11:43:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyBehavior.java]
+FileInfo [ type=java,	 size=157,	 modifiedDate=Tue Sep 29 11:47:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyWithWings.java]
+FileInfo [ type=java,	 size=146,	 modifiedDate=Tue Sep 29 11:47:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\FlyNOWay.java]
+FileInfo [ type=project,	 size=690,	 modifiedDate=Tue Sep 29 11:48:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\.project]
+FileInfo [ type=class,	 size=128,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyBehavior.class]
+FileInfo [ type=class,	 size=502,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyNOWay.class]
+FileInfo [ type=class,	 size=521,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\FlyWithWings.class]
+FileInfo [ type=class,	 size=134,	 modifiedDate=Tue Sep 29 11:48:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\QuackBehavior.class]
+FileInfo [ type=java,	 size=184,	 modifiedDate=Tue Sep 29 11:49:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Quack.java]
+FileInfo [ type=class,	 size=487,	 modifiedDate=Tue Sep 29 11:49:32 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Quack.class]
+FileInfo [ type=java,	 size=186,	 modifiedDate=Tue Sep 29 11:49:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Squeak.java]
+FileInfo [ type=class,	 size=499,	 modifiedDate=Tue Sep 29 11:49:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Squeak.class]
+FileInfo [ type=java,	 size=164,	 modifiedDate=Tue Sep 29 12:17:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RocketPoweredFly.java]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 12:17:41 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RocketPoweredFly.class]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 12:17:57 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck]
+FileInfo [ type=java,	 size=266,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MallerDuck.java]
+FileInfo [ type=class,	 size=674,	 modifiedDate=Tue Sep 29 12:19:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MallerDuck.class]
+FileInfo [ type=java,	 size=227,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RubberDuck.java]
+FileInfo [ type=class,	 size=580,	 modifiedDate=Tue Sep 29 12:19:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RubberDuck.class]
+FileInfo [ type=java,	 size=149,	 modifiedDate=Tue Sep 29 12:21:39 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\DecoyDuck.java]
+FileInfo [ type=class,	 size=481,	 modifiedDate=Tue Sep 29 12:21:40 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\DecoyDuck.class]
+FileInfo [ type=java,	 size=904,	 modifiedDate=Tue Sep 29 12:21:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\Duck.java]
+FileInfo [ type=class,	 size=1506,	 modifiedDate=Tue Sep 29 12:21:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\Duck.class]
+FileInfo [ type=java,	 size=588,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\MainTest.java]
+FileInfo [ type=class,	 size=904,	 modifiedDate=Tue Sep 29 12:22:50 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\MainTest.class]
+FileInfo [ type=java,	 size=268,	 modifiedDate=Tue Sep 29 12:22:59 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\Duck\RedheadDuck.java]
+FileInfo [ type=class,	 size=677,	 modifiedDate=Tue Sep 29 12:23:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\Duck\RedheadDuck.class]
+FileInfo [ type=java,	 size=63,	 modifiedDate=Tue Sep 29 13:41:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Recipe.java]
+FileInfo [ type=class,	 size=120,	 modifiedDate=Tue Sep 29 13:41:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Recipe.class]
+FileInfo [ type=java,	 size=168,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\GeneralRemanRecipe.java]
+FileInfo [ type=class,	 size=548,	 modifiedDate=Tue Sep 29 13:42:25 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\GeneralRemanRecipe.class]
+FileInfo [ type=java,	 size=180,	 modifiedDate=Tue Sep 29 13:43:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\RamenWithoutBrothReciple.java]
+FileInfo [ type=class,	 size=572,	 modifiedDate=Tue Sep 29 13:43:04 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\RamenWithoutBrothReciple.class]
+FileInfo [ type=java,	 size=166,	 modifiedDate=Tue Sep 29 13:43:30 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\CheeseRemenRecipe.java]
+FileInfo [ type=class,	 size=544,	 modifiedDate=Tue Sep 29 13:43:31 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\CheeseRemenRecipe.class]
+FileInfo [ type=java,	 size=170,	 modifiedDate=Tue Sep 29 13:43:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\VinegarRamenReciple.java]
+FileInfo [ type=class,	 size=552,	 modifiedDate=Tue Sep 29 13:43:46 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\VinegarRamenReciple.class]
+FileInfo [ type=java,	 size=162,	 modifiedDate=Tue Sep 29 13:44:00 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MilkRamenRecipe.java]
+FileInfo [ type=class,	 size=536,	 modifiedDate=Tue Sep 29 13:44:01 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MilkRamenRecipe.class]
+FileInfo [ type=java,	 size=384,	 modifiedDate=Tue Sep 29 13:46:16 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\Ramen.java]
+FileInfo [ type=class,	 size=764,	 modifiedDate=Tue Sep 29 13:46:17 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\Ramen.class]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen]
+FileInfo [ type=<DIR>,	 size=4096,	 modifiedDate=Tue Sep 29 13:46:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen]
+FileInfo [ type=java,	 size=412,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\remen\MainTest.java]
+FileInfo [ type=class,	 size=973,	 modifiedDate=Tue Sep 29 13:48:42 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\remen\MainTest.class]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 13:58:06 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin]
+FileInfo [ type=java,	 size=253,	 modifiedDate=Tue Sep 29 14:00:20 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\AgeComparator.java]
+FileInfo [ type=class,	 size=687,	 modifiedDate=Tue Sep 29 14:00:21 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\AgeComparator.class]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort]
+FileInfo [ type=<DIR>,	 size=0,	 modifiedDate=Tue Sep 29 14:06:03 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort]
+FileInfo [ type=java,	 size=716,	 modifiedDate=Tue Sep 29 14:09:47 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\MainTest.java]
+FileInfo [ type=class,	 size=1271,	 modifiedDate=Tue Sep 29 14:09:48 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\MainTest.class]
+FileInfo [ type=java,	 size=661,	 modifiedDate=Tue Sep 29 16:55:44 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\Person.java]
+FileInfo [ type=class,	 size=1381,	 modifiedDate=Tue Sep 29 16:55:45 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\Person.class]
+FileInfo [ type=java,	 size=226,	 modifiedDate=Tue Sep 29 16:57:28 KST 2020,	 filename=D:\Java_Lectrue\Strategy\src\sort\NameComparator.java]
+FileInfo [ type=class,	 size=778,	 modifiedDate=Tue Sep 29 16:57:29 KST 2020,	 filename=D:\Java_Lectrue\Strategy\bin\sort\NameComparator.class]

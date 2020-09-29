@@ -1,6 +1,6 @@
 package sort;
 
-import java.util.Comparator;;
+import java.util.Comparator;
 
 public class NameComparator  implements Comparator<Person>{
 

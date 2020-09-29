@@ -1,10 +1,13 @@
 package file;
 
-public class FilenameComparator implements Comparator<String> {
+
+public class FilenameComparator implements Comparator<FileInfo> {
 
 	@Override
-	public int compare(String o1, String o2) {
-		return o1.compareTo(o2);
+	public int compare(FileInfo o1, FileInfo o2) {
+		return (o1.getFilename().compareTo(o2.getFilename()));
 	}
 
 }
+
+
