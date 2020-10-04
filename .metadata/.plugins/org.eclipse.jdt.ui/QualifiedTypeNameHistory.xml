@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="Door"/>
-<fullyQualifiedTypeName name="PushDoor"/>
-<fullyQualifiedTypeName name="AutomaticDoor"/>
-<fullyQualifiedTypeName name="KnobDoor"/>
-<fullyQualifiedTypeName name="SlidingDoor"/>
+    <fullyQualifiedTypeName name="Door"/>
+    <fullyQualifiedTypeName name="PushDoor"/>
+    <fullyQualifiedTypeName name="AutomaticDoor"/>
+    <fullyQualifiedTypeName name="KnobDoor"/>
+    <fullyQualifiedTypeName name="SlidingDoor"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

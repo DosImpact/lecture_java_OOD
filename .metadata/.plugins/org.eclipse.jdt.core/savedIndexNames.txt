@@ -1,5 +1,6 @@
-INDEX VERSION 1.131+D:\Java_Lectrue\.metadata\.plugins\org.eclipse.jdt.core
-1226054456.index
-3491580546.index
-1606455614.index
-4202520094.index
+INDEX VERSION 1.131+/Users/doyoung/eclipse-workspace/lecture_java_OOD/.metadata/.plugins/org.eclipse.jdt.core
+861118734.index
+3298976855.index
+3531009617.index
+241316035.index
+1571501549.index
