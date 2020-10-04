@@ -11,6 +11,11 @@ public class WeatherData  implements Subject {
 	private float humidity;
 	private float pressure;
 	
+	public WeatherData() {
+		super();
+		this.observers = new ArrayList<Observer>();
+	}
+
 	public float getTemp() {
 		return temp;
 	}
