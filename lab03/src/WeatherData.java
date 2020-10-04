@@ -41,4 +41,7 @@ public class WeatherData {
 	public String toString() {
 		return "" + dateTime + "," + temperature + "," + windVelocity + "," + relativeHumidity;
 	}	
+	
+
+
 }

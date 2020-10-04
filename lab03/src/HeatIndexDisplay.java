@@ -2,11 +2,11 @@ import java.util.Date;
 
 // http://www.kma.go.kr/HELP/basic/help_01_04.jsp
 // HeatIndex (KPARK 2020/09/27)
-enum HeatIndex {
+enum HeatIndex  {
 	VERY_HIGH, HIGH, USUAL, LOW;
 }
 
-public class HeatIndexDisplay {
+public class HeatIndexDisplay implements Observer,DisplayElement {
 	private HeatIndex index = null;
 	
     // fahrenheit -> celsius
@@ -44,5 +44,35 @@ public class HeatIndexDisplay {
 	@Override
 	public String toString() {
 		return "HeatIndexDisplay [index=" + index + "]";
+	}
+
+	@Override
+	public void update(Date dateTime, double temp, double velocity, double humidity) {
+		// TODO Auto-generated method stub
+		double result = HeatIndexDisplay.calculate(temp, humidity);
+		if(result  >= 54) {
+			this.index = HeatIndex.VERY_HIGH;
+		} else if(result >= 41) {
+			this.index = HeatIndex.HIGH;
+		}
+		else if(result >= 32) {
+			this.index = HeatIndex.USUAL;
+		}
+		else {
+			this.index = HeatIndex.LOW;
+		}
+		display();
+	}
+
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+		System.out.println(this);
+		
+	}
+	
+	@Override
+	public boolean equals(Object o){
+		return ( o instanceof HeatIndexDisplay);
 	}
 }

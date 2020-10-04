@@ -41,7 +41,10 @@ public class WeatherDataImporter {
 //            e.printStackTrace();
             return null;
         }  
-
+        System.out.println("load successfully");
+        for( WeatherData l : list ) {
+        	System.out.println(l);
+        }
 		return list;
     }
 }

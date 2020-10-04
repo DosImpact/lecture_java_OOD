@@ -6,7 +6,7 @@ enum WindChillTemperatureIndex {
 	DANGER, WARNING, CAUTION, AWARE;
 }
 
-public class WindChillTemperatureIndexDisplay {
+public class WindChillTemperatureIndexDisplay implements Observer, DisplayElement {
 	private WindChillTemperatureIndex index = null;
 
 	// (Km/h) 1 m/s = 3.6 Km/h = (1/1000) Km / (1/3600) h
@@ -37,5 +37,34 @@ public class WindChillTemperatureIndexDisplay {
 	@Override
 	public String toString() {
 		return "WindChillTemperatureIndexDisplay [index=" + index + "]";
+	}
+
+	@Override
+	public void display() {
+		System.out.println(this);
+	}
+
+	@Override
+	public void update(Date dateTime, double temp, double velocity, double humidity) {
+		double result =  WindChillTemperatureIndexDisplay.calculate(temp, velocity);
+		if( result < -45 ) {
+			this.index = WindChillTemperatureIndex.DANGER;
+		}
+		else if ( result < -25 ) {
+			this.index = WindChillTemperatureIndex.WARNING;
+		}
+		else if ( result < -10 ) {
+			this.index = WindChillTemperatureIndex.CAUTION;
+		}
+		else {
+			this.index = WindChillTemperatureIndex.AWARE;
+		}
+		display();
+		
+	}
+	
+	@Override
+	public boolean equals(Object o){
+		return ( o instanceof WindChillTemperatureIndexDisplay);
 	}
 }
