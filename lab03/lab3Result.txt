@@ -1,0 +1,1834 @@
+load successfully
+Wed Jan 01 00:00:00 KST 2020,-2.2,0.6,64.4
+Thu Jan 02 00:00:00 KST 2020,1.0,1.2,65.4
+Fri Jan 03 00:00:00 KST 2020,-0.1,1.7,56.9
+Sat Jan 04 00:00:00 KST 2020,1.2,1.9,50.8
+Sun Jan 05 00:00:00 KST 2020,1.3,1.1,45.6
+Mon Jan 06 00:00:00 KST 2020,3.1,3.1,65.4
+Tue Jan 07 00:00:00 KST 2020,6.3,4.0,95.0
+Wed Jan 08 00:00:00 KST 2020,2.4,3.3,86.1
+Thu Jan 09 00:00:00 KST 2020,-1.2,2.3,65.3
+Fri Jan 10 00:00:00 KST 2020,-0.6,1.5,62.9
+Sat Jan 11 00:00:00 KST 2020,-0.1,1.9,60.9
+Sun Jan 12 00:00:00 KST 2020,-1.0,2.4,61.5
+Mon Jan 13 00:00:00 KST 2020,-2.9,2.3,51.0
+Tue Jan 14 00:00:00 KST 2020,-2.3,1.6,45.3
+Wed Jan 15 00:00:00 KST 2020,-2.7,1.9,44.8
+Thu Jan 16 00:00:00 KST 2020,-1.7,1.6,43.0
+Fri Jan 17 00:00:00 KST 2020,-0.6,1.5,43.9
+Sat Jan 18 00:00:00 KST 2020,0.3,1.8,48.1
+Sun Jan 19 00:00:00 KST 2020,1.9,2.2,62.8
+Mon Jan 20 00:00:00 KST 2020,0.7,2.5,46.8
+Tue Jan 21 00:00:00 KST 2020,-0.4,1.4,36.9
+Wed Jan 22 00:00:00 KST 2020,3.0,1.7,36.0
+Thu Jan 23 00:00:00 KST 2020,4.6,2.0,49.3
+Fri Jan 24 00:00:00 KST 2020,2.8,1.7,63.0
+Sat Jan 25 00:00:00 KST 2020,4.3,1.5,63.1
+Sun Jan 26 00:00:00 KST 2020,5.5,2.7,56.3
+Mon Jan 27 00:00:00 KST 2020,5.9,4.6,48.1
+Tue Jan 28 00:00:00 KST 2020,6.8,2.6,49.4
+Wed Jan 29 00:00:00 KST 2020,6.0,2.1,46.4
+Thu Jan 30 00:00:00 KST 2020,5.2,1.8,47.0
+Fri Jan 31 00:00:00 KST 2020,3.9,2.3,59.6
+Sat Feb 01 00:00:00 KST 2020,2.6,1.7,66.6
+Sun Feb 02 00:00:00 KST 2020,1.5,1.8,52.3
+Mon Feb 03 00:00:00 KST 2020,-0.4,3.1,43.6
+Tue Feb 04 00:00:00 KST 2020,-1.6,2.8,50.3
+Wed Feb 05 00:00:00 KST 2020,-8.3,3.3,37.3
+Thu Feb 06 00:00:00 KST 2020,-6.4,1.9,36.4
+Fri Feb 07 00:00:00 KST 2020,-1.7,2.0,45.1
+Sat Feb 08 00:00:00 KST 2020,-0.1,3.0,48.1
+Sun Feb 09 00:00:00 KST 2020,-0.5,2.0,51.1
+Mon Feb 10 00:00:00 KST 2020,4.0,1.7,49.4
+Tue Feb 11 00:00:00 KST 2020,6.8,1.6,37.0
+Wed Feb 12 00:00:00 KST 2020,7.4,2.2,73.4
+Thu Feb 13 00:00:00 KST 2020,6.5,1.7,84.8
+Fri Feb 14 00:00:00 KST 2020,8.1,1.2,70.3
+Sat Feb 15 00:00:00 KST 2020,9.8,2.7,63.0
+Sun Feb 16 00:00:00 KST 2020,-1.4,4.0,81.1
+Mon Feb 17 00:00:00 KST 2020,-5.9,3.4,64.3
+Tue Feb 18 00:00:00 KST 2020,-4.1,2.3,44.0
+Wed Feb 19 00:00:00 KST 2020,1.0,1.5,56.8
+Thu Feb 20 00:00:00 KST 2020,4.6,1.7,62.6
+Fri Feb 21 00:00:00 KST 2020,6.7,2.2,66.3
+Sat Feb 22 00:00:00 KST 2020,4.0,4.0,62.0
+Sun Feb 23 00:00:00 KST 2020,2.5,2.0,48.6
+Mon Feb 24 00:00:00 KST 2020,7.0,1.6,51.8
+Tue Feb 25 00:00:00 KST 2020,6.7,4.2,73.5
+Wed Feb 26 00:00:00 KST 2020,6.4,2.1,59.6
+Thu Feb 27 00:00:00 KST 2020,6.1,2.0,54.0
+Fri Feb 28 00:00:00 KST 2020,4.5,1.4,79.4
+Sat Feb 29 00:00:00 KST 2020,7.7,1.7,68.6
+Sun Mar 01 00:00:00 KST 2020,5.8,2.0,71.8
+Mon Mar 02 00:00:00 KST 2020,3.4,2.7,55.3
+Tue Mar 03 00:00:00 KST 2020,4.8,2.6,57.0
+Wed Mar 04 00:00:00 KST 2020,2.2,3.7,53.4
+Thu Mar 05 00:00:00 KST 2020,1.4,2.5,47.5
+Fri Mar 06 00:00:00 KST 2020,3.7,1.6,46.8
+Sat Mar 07 00:00:00 KST 2020,7.0,2.0,39.5
+Sun Mar 08 00:00:00 KST 2020,9.3,1.6,43.8
+Mon Mar 09 00:00:00 KST 2020,11.1,1.8,37.6
+Tue Mar 10 00:00:00 KST 2020,6.4,2.8,78.4
+Wed Mar 11 00:00:00 KST 2020,3.8,3.3,41.8
+Thu Mar 12 00:00:00 KST 2020,6.8,2.5,49.8
+Fri Mar 13 00:00:00 KST 2020,4.9,3.3,41.0
+Sat Mar 14 00:00:00 KST 2020,3.6,3.0,48.1
+Sun Mar 15 00:00:00 KST 2020,4.0,3.6,48.3
+Mon Mar 16 00:00:00 KST 2020,3.6,2.8,42.4
+Tue Mar 17 00:00:00 KST 2020,6.6,2.1,65.8
+Wed Mar 18 00:00:00 KST 2020,10.0,1.8,45.8
+Thu Mar 19 00:00:00 KST 2020,9.1,4.8,49.0
+Fri Mar 20 00:00:00 KST 2020,8.8,3.1,39.6
+Sat Mar 21 00:00:00 KST 2020,12.8,2.0,56.5
+Sun Mar 22 00:00:00 KST 2020,11.0,3.0,37.5
+Mon Mar 23 00:00:00 KST 2020,10.6,1.9,37.9
+Tue Mar 24 00:00:00 KST 2020,11.4,1.8,35.0
+Wed Mar 25 00:00:00 KST 2020,12.5,1.9,33.6
+Thu Mar 26 00:00:00 KST 2020,14.8,1.9,53.8
+Fri Mar 27 00:00:00 KST 2020,11.9,3.3,56.4
+Sat Mar 28 00:00:00 KST 2020,7.7,3.2,17.9
+Sun Mar 29 00:00:00 KST 2020,8.7,2.0,30.6
+Mon Mar 30 00:00:00 KST 2020,10.2,1.8,38.4
+Tue Mar 31 00:00:00 KST 2020,11.9,2.0,34.5
+Wed Apr 01 00:00:00 KST 2020,11.3,3.7,35.6
+Thu Apr 02 00:00:00 KST 2020,9.3,2.3,41.4
+Fri Apr 03 00:00:00 KST 2020,10.0,2.7,53.8
+Sat Apr 04 00:00:00 KST 2020,8.9,3.4,36.4
+Sun Apr 05 00:00:00 KST 2020,7.2,2.8,29.5
+Mon Apr 06 00:00:00 KST 2020,9.3,2.4,38.3
+Tue Apr 07 00:00:00 KST 2020,10.6,2.5,56.6
+Wed Apr 08 00:00:00 KST 2020,9.4,3.5,25.5
+Thu Apr 09 00:00:00 KST 2020,8.9,2.8,44.6
+Fri Apr 10 00:00:00 KST 2020,10.7,2.4,52.6
+Sat Apr 11 00:00:00 KST 2020,9.9,2.5,63.8
+Sun Apr 12 00:00:00 KST 2020,9.9,3.8,58.6
+Mon Apr 13 00:00:00 KST 2020,12.4,3.1,39.4
+Tue Apr 14 00:00:00 KST 2020,13.0,2.4,46.8
+Wed Apr 15 00:00:00 KST 2020,13.2,2.2,39.8
+Thu Apr 16 00:00:00 KST 2020,16.0,2.3,39.9
+Fri Apr 17 00:00:00 KST 2020,12.5,2.4,77.8
+Sat Apr 18 00:00:00 KST 2020,13.5,2.6,67.9
+Sun Apr 19 00:00:00 KST 2020,12.3,2.7,75.8
+Mon Apr 20 00:00:00 KST 2020,10.0,3.3,73.0
+Tue Apr 21 00:00:00 KST 2020,7.4,4.4,49.0
+Wed Apr 22 00:00:00 KST 2020,6.0,4.0,46.8
+Thu Apr 23 00:00:00 KST 2020,7.9,3.7,47.8
+Fri Apr 24 00:00:00 KST 2020,9.9,3.9,55.6
+Sat Apr 25 00:00:00 KST 2020,13.1,3.9,54.4
+Sun Apr 26 00:00:00 KST 2020,12.3,3.2,43.1
+Mon Apr 27 00:00:00 KST 2020,12.9,2.8,49.8
+Tue Apr 28 00:00:00 KST 2020,13.9,3.0,50.0
+Wed Apr 29 00:00:00 KST 2020,14.9,2.6,48.6
+Thu Apr 30 00:00:00 KST 2020,17.1,2.7,57.1
+Fri May 01 00:00:00 KST 2020,20.2,2.7,73.6
+Sat May 02 00:00:00 KST 2020,20.3,2.3,79.6
+Sun May 03 00:00:00 KST 2020,21.8,2.0,68.8
+Mon May 04 00:00:00 KST 2020,20.2,2.7,63.9
+Tue May 05 00:00:00 KST 2020,16.0,1.9,67.9
+Wed May 06 00:00:00 KST 2020,19.4,2.1,50.0
+Thu May 07 00:00:00 KST 2020,20.7,2.5,32.5
+Fri May 08 00:00:00 KST 2020,19.9,2.4,32.8
+Sat May 09 00:00:00 KST 2020,14.2,3.6,94.4
+Sun May 10 00:00:00 KST 2020,14.4,2.5,88.6
+Mon May 11 00:00:00 KST 2020,16.5,3.0,61.0
+Tue May 12 00:00:00 KST 2020,14.3,2.9,69.4
+Wed May 13 00:00:00 KST 2020,16.1,2.8,47.3
+Thu May 14 00:00:00 KST 2020,19.3,2.0,35.4
+Fri May 15 00:00:00 KST 2020,16.1,3.0,81.4
+Sat May 16 00:00:00 KST 2020,16.7,1.6,90.3
+Sun May 17 00:00:00 KST 2020,19.1,1.7,80.1
+Mon May 18 00:00:00 KST 2020,19.1,2.4,79.4
+Tue May 19 00:00:00 KST 2020,13.0,3.2,73.6
+Wed May 20 00:00:00 KST 2020,14.4,1.9,60.4
+Thu May 21 00:00:00 KST 2020,17.4,2.1,56.1
+Fri May 22 00:00:00 KST 2020,18.5,1.9,68.5
+Sat May 23 00:00:00 KST 2020,20.1,2.2,66.1
+Sun May 24 00:00:00 KST 2020,17.1,2.9,84.8
+Mon May 25 00:00:00 KST 2020,16.6,2.1,81.0
+Tue May 26 00:00:00 KST 2020,16.2,2.1,81.9
+Wed May 27 00:00:00 KST 2020,17.4,2.6,68.5
+Thu May 28 00:00:00 KST 2020,18.7,1.9,62.8
+Fri May 29 00:00:00 KST 2020,20.7,2.0,65.6
+Sat May 30 00:00:00 KST 2020,22.6,1.9,57.3
+Sun May 31 00:00:00 KST 2020,21.2,2.3,63.0
+Mon Jun 01 00:00:00 KST 2020,19.7,3.4,64.3
+Tue Jun 02 00:00:00 KST 2020,17.9,2.2,71.0
+Wed Jun 03 00:00:00 KST 2020,22.0,2.4,73.3
+Thu Jun 04 00:00:00 KST 2020,21.9,2.7,81.1
+Fri Jun 05 00:00:00 KST 2020,23.0,1.8,69.4
+Sat Jun 06 00:00:00 KST 2020,24.6,2.0,63.6
+Sun Jun 07 00:00:00 KST 2020,22.7,2.3,69.4
+Mon Jun 08 00:00:00 KST 2020,25.0,2.1,63.6
+Tue Jun 09 00:00:00 KST 2020,26.7,2.3,51.6
+Wed Jun 10 00:00:00 KST 2020,25.8,2.0,63.8
+Thu Jun 11 00:00:00 KST 2020,26.1,2.2,68.3
+Fri Jun 12 00:00:00 KST 2020,24.7,1.7,68.6
+Sat Jun 13 00:00:00 KST 2020,26.9,1.9,52.8
+Sun Jun 14 00:00:00 KST 2020,24.0,2.9,70.6
+Mon Jun 15 00:00:00 KST 2020,23.0,2.8,62.3
+Tue Jun 16 00:00:00 KST 2020,24.4,2.2,63.0
+Wed Jun 17 00:00:00 KST 2020,24.3,2.0,58.6
+Thu Jun 18 00:00:00 KST 2020,23.4,1.6,61.4
+Fri Jun 19 00:00:00 KST 2020,24.7,2.1,61.4
+Sat Jun 20 00:00:00 KST 2020,24.9,2.1,62.6
+Sun Jun 21 00:00:00 KST 2020,26.1,2.0,59.5
+Mon Jun 22 00:00:00 KST 2020,28.6,2.0,50.5
+Tue Jun 23 00:00:00 KST 2020,27.3,1.9,53.5
+Wed Jun 24 00:00:00 KST 2020,22.3,2.7,83.5
+Thu Jun 25 00:00:00 KST 2020,21.6,2.2,91.0
+Fri Jun 26 00:00:00 KST 2020,21.8,3.2,82.1
+Sat Jun 27 00:00:00 KST 2020,24.1,2.0,70.4
+Sun Jun 28 00:00:00 KST 2020,25.2,2.4,70.5
+Mon Jun 29 00:00:00 KST 2020,23.8,2.4,77.0
+Tue Jun 30 00:00:00 KST 2020,20.1,4.0,83.0
+Wed Jul 01 00:00:00 KST 2020,21.1,1.9,79.3
+Thu Jul 02 00:00:00 KST 2020,24.2,1.9,74.5
+Fri Jul 03 00:00:00 KST 2020,25.5,2.6,63.5
+Sat Jul 04 00:00:00 KST 2020,24.2,2.1,63.9
+Sun Jul 05 00:00:00 KST 2020,23.8,1.9,68.6
+Mon Jul 06 00:00:00 KST 2020,25.6,2.1,66.6
+Tue Jul 07 00:00:00 KST 2020,24.1,2.5,75.5
+Wed Jul 08 00:00:00 KST 2020,25.5,2.0,71.9
+Thu Jul 09 00:00:00 KST 2020,27.5,1.7,64.6
+Fri Jul 10 00:00:00 KST 2020,24.5,2.8,75.0
+Sat Jul 11 00:00:00 KST 2020,25.8,2.6,62.6
+Sun Jul 12 00:00:00 KST 2020,23.5,2.4,71.9
+Mon Jul 13 00:00:00 KST 2020,18.7,4.0,94.8
+Tue Jul 14 00:00:00 KST 2020,20.3,2.8,79.4
+Wed Jul 15 00:00:00 KST 2020,23.4,2.0,63.1
+Thu Jul 16 00:00:00 KST 2020,25.0,1.8,70.9
+Fri Jul 17 00:00:00 KST 2020,26.0,1.9,72.0
+Sat Jul 18 00:00:00 KST 2020,26.1,1.6,71.6
+Sun Jul 19 00:00:00 KST 2020,24.0,2.7,81.6
+Mon Jul 20 00:00:00 KST 2020,23.8,3.7,86.3
+Tue Jul 21 00:00:00 KST 2020,25.0,1.6,77.0
+Wed Jul 22 00:00:00 KST 2020,23.7,1.6,89.3
+Thu Jul 23 00:00:00 KST 2020,21.1,3.6,95.5
+Fri Jul 24 00:00:00 KST 2020,22.5,4.6,74.3
+Sat Jul 25 00:00:00 KST 2020,24.3,3.1,69.3
+Sun Jul 26 00:00:00 KST 2020,25.4,2.0,69.3
+Mon Jul 27 00:00:00 KST 2020,24.3,2.2,86.4
+Tue Jul 28 00:00:00 KST 2020,24.4,2.0,84.8
+Wed Jul 29 00:00:00 KST 2020,23.7,2.0,95.8
+Thu Jul 30 00:00:00 KST 2020,25.3,2.1,85.5
+Fri Jul 31 00:00:00 KST 2020,26.2,2.0,81.9
+Sat Aug 01 00:00:00 KST 2020,25.3,1.7,90.9
+Sun Aug 02 00:00:00 KST 2020,24.9,2.3,96.3
+Mon Aug 03 00:00:00 KST 2020,25.0,3.0,96.3
+Tue Aug 04 00:00:00 KST 2020,27.0,3.5,89.3
+Wed Aug 05 00:00:00 KST 2020,26.5,1.9,92.1
+Thu Aug 06 00:00:00 KST 2020,24.1,3.3,92.8
+Fri Aug 07 00:00:00 KST 2020,24.3,1.8,85.3
+Sat Aug 08 00:00:00 KST 2020,24.2,2.3,89.5
+Sun Aug 09 00:00:00 KST 2020,24.9,2.6,95.4
+Mon Aug 10 00:00:00 KST 2020,26.5,2.0,91.6
+Tue Aug 11 00:00:00 KST 2020,24.6,2.2,92.5
+Wed Aug 12 00:00:00 KST 2020,27.2,1.9,83.9
+Thu Aug 13 00:00:00 KST 2020,28.0,2.5,82.4
+Fri Aug 14 00:00:00 KST 2020,27.1,3.5,86.1
+Sat Aug 15 00:00:00 KST 2020,26.1,1.9,96.0
+Sun Aug 16 00:00:00 KST 2020,27.4,3.0,82.6
+Mon Aug 17 00:00:00 KST 2020,28.2,2.3,77.9
+Tue Aug 18 00:00:00 KST 2020,27.5,1.6,76.3
+Wed Aug 19 00:00:00 KST 2020,27.1,2.0,76.8
+Thu Aug 20 00:00:00 KST 2020,27.7,1.7,76.0
+Fri Aug 21 00:00:00 KST 2020,26.6,1.6,83.1
+Sat Aug 22 00:00:00 KST 2020,24.3,2.1,87.4
+Sun Aug 23 00:00:00 KST 2020,25.3,1.9,78.4
+Mon Aug 24 00:00:00 KST 2020,27.8,2.2,71.6
+Tue Aug 25 00:00:00 KST 2020,29.9,2.1,69.5
+Wed Aug 26 00:00:00 KST 2020,30.2,3.4,68.3
+Thu Aug 27 00:00:00 KST 2020,27.1,3.6,84.6
+Fri Aug 28 00:00:00 KST 2020,27.3,1.6,89.1
+Sat Aug 29 00:00:00 KST 2020,26.8,1.3,90.1
+Sun Aug 30 00:00:00 KST 2020,26.8,2.1,88.8
+Mon Aug 31 00:00:00 KST 2020,26.4,2.8,77.9
+Tue Sep 01 00:00:00 KST 2020,26.6,1.9,72.4
+Wed Sep 02 00:00:00 KST 2020,24.3,2.3,91.3
+Thu Sep 03 00:00:00 KST 2020,22.7,4.8,82.0
+Fri Sep 04 00:00:00 KST 2020,23.3,2.7,63.9
+Sat Sep 05 00:00:00 KST 2020,23.3,2.0,66.6
+Sun Sep 06 00:00:00 KST 2020,21.7,2.7,80.0
+Mon Sep 07 00:00:00 KST 2020,19.2,4.2,93.5
+Tue Sep 08 00:00:00 KST 2020,23.4,4.2,71.5
+Wed Sep 09 00:00:00 KST 2020,21.1,2.1,83.4
+Thu Sep 10 00:00:00 KST 2020,22.8,2.0,75.8
+Fri Sep 11 00:00:00 KST 2020,22.4,2.8,72.6
+Sat Sep 12 00:00:00 KST 2020,20.2,2.0,83.8
+Sun Sep 13 00:00:00 KST 2020,21.5,1.9,70.4
+Mon Sep 14 00:00:00 KST 2020,21.3,1.8,79.3
+Tue Sep 15 00:00:00 KST 2020,23.0,1.6,76.4
+Wed Sep 16 00:00:00 KST 2020,22.5,1.9,79.9
+Thu Sep 17 00:00:00 KST 2020,21.3,2.1,70.3
+Fri Sep 18 00:00:00 KST 2020,21.5,2.8,62.0
+Sat Sep 19 00:00:00 KST 2020,21.2,2.2,59.3
+Sun Sep 20 00:00:00 KST 2020,19.7,2.0,57.6
+Mon Sep 21 00:00:00 KST 2020,19.1,1.7,56.1
+Tue Sep 22 00:00:00 KST 2020,20.2,2.8,55.3
+Wed Sep 23 00:00:00 KST 2020,19.2,3.3,59.9
+
+ [notifyObservers ] Wed Jan 01 00:00:00 KST 2020,-2.2,0.6,64.4
+
+ [notifyObservers ] Thu Jan 02 00:00:00 KST 2020,1.0,1.2,65.4
+
+ [notifyObservers ] Fri Jan 03 00:00:00 KST 2020,-0.1,1.7,56.9
+CurrentConditionsDisplay [dateTime=Fri Jan 03 00:00:00 KST 2020, temperature=-0.1, windVelocity=1.7, relativeHumidity=56.9]
+
+ [notifyObservers ] Sat Jan 04 00:00:00 KST 2020,1.2,1.9,50.8
+CurrentConditionsDisplay [dateTime=Sat Jan 04 00:00:00 KST 2020, temperature=1.2, windVelocity=1.9, relativeHumidity=50.8]
+
+ [notifyObservers ] Sun Jan 05 00:00:00 KST 2020,1.3,1.1,45.6
+CurrentConditionsDisplay [dateTime=Sun Jan 05 00:00:00 KST 2020, temperature=1.3, windVelocity=1.1, relativeHumidity=45.6]
+HeatIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jan 06 00:00:00 KST 2020,3.1,3.1,65.4
+CurrentConditionsDisplay [dateTime=Mon Jan 06 00:00:00 KST 2020, temperature=3.1, windVelocity=3.1, relativeHumidity=65.4]
+HeatIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jan 07 00:00:00 KST 2020,6.3,4.0,95.0
+CurrentConditionsDisplay [dateTime=Tue Jan 07 00:00:00 KST 2020, temperature=6.3, windVelocity=4.0, relativeHumidity=95.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+
+ [notifyObservers ] Wed Jan 08 00:00:00 KST 2020,2.4,3.3,86.1
+CurrentConditionsDisplay [dateTime=Wed Jan 08 00:00:00 KST 2020, temperature=2.4, windVelocity=3.3, relativeHumidity=86.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+
+ [notifyObservers ] Thu Jan 09 00:00:00 KST 2020,-1.2,2.3,65.3
+CurrentConditionsDisplay [dateTime=Thu Jan 09 00:00:00 KST 2020, temperature=-1.2, windVelocity=2.3, relativeHumidity=65.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jan 10 00:00:00 KST 2020,-0.6,1.5,62.9
+CurrentConditionsDisplay [dateTime=Fri Jan 10 00:00:00 KST 2020, temperature=-0.6, windVelocity=1.5, relativeHumidity=62.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jan 11 00:00:00 KST 2020,-0.1,1.9,60.9
+CurrentConditionsDisplay [dateTime=Sat Jan 11 00:00:00 KST 2020, temperature=-0.1, windVelocity=1.9, relativeHumidity=60.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jan 12 00:00:00 KST 2020,-1.0,2.4,61.5
+CurrentConditionsDisplay [dateTime=Sun Jan 12 00:00:00 KST 2020, temperature=-1.0, windVelocity=2.4, relativeHumidity=61.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jan 13 00:00:00 KST 2020,-2.9,2.3,51.0
+CurrentConditionsDisplay [dateTime=Mon Jan 13 00:00:00 KST 2020, temperature=-2.9, windVelocity=2.3, relativeHumidity=51.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jan 14 00:00:00 KST 2020,-2.3,1.6,45.3
+CurrentConditionsDisplay [dateTime=Tue Jan 14 00:00:00 KST 2020, temperature=-2.3, windVelocity=1.6, relativeHumidity=45.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jan 15 00:00:00 KST 2020,-2.7,1.9,44.8
+CurrentConditionsDisplay [dateTime=Wed Jan 15 00:00:00 KST 2020, temperature=-2.7, windVelocity=1.9, relativeHumidity=44.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jan 16 00:00:00 KST 2020,-1.7,1.6,43.0
+CurrentConditionsDisplay [dateTime=Thu Jan 16 00:00:00 KST 2020, temperature=-1.7, windVelocity=1.6, relativeHumidity=43.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jan 17 00:00:00 KST 2020,-0.6,1.5,43.9
+CurrentConditionsDisplay [dateTime=Fri Jan 17 00:00:00 KST 2020, temperature=-0.6, windVelocity=1.5, relativeHumidity=43.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jan 18 00:00:00 KST 2020,0.3,1.8,48.1
+CurrentConditionsDisplay [dateTime=Sat Jan 18 00:00:00 KST 2020, temperature=0.3, windVelocity=1.8, relativeHumidity=48.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jan 19 00:00:00 KST 2020,1.9,2.2,62.8
+CurrentConditionsDisplay [dateTime=Sun Jan 19 00:00:00 KST 2020, temperature=1.9, windVelocity=2.2, relativeHumidity=62.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jan 20 00:00:00 KST 2020,0.7,2.5,46.8
+CurrentConditionsDisplay [dateTime=Mon Jan 20 00:00:00 KST 2020, temperature=0.7, windVelocity=2.5, relativeHumidity=46.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jan 21 00:00:00 KST 2020,-0.4,1.4,36.9
+CurrentConditionsDisplay [dateTime=Tue Jan 21 00:00:00 KST 2020, temperature=-0.4, windVelocity=1.4, relativeHumidity=36.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jan 22 00:00:00 KST 2020,3.0,1.7,36.0
+CurrentConditionsDisplay [dateTime=Wed Jan 22 00:00:00 KST 2020, temperature=3.0, windVelocity=1.7, relativeHumidity=36.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jan 23 00:00:00 KST 2020,4.6,2.0,49.3
+CurrentConditionsDisplay [dateTime=Thu Jan 23 00:00:00 KST 2020, temperature=4.6, windVelocity=2.0, relativeHumidity=49.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jan 24 00:00:00 KST 2020,2.8,1.7,63.0
+CurrentConditionsDisplay [dateTime=Fri Jan 24 00:00:00 KST 2020, temperature=2.8, windVelocity=1.7, relativeHumidity=63.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jan 25 00:00:00 KST 2020,4.3,1.5,63.1
+CurrentConditionsDisplay [dateTime=Sat Jan 25 00:00:00 KST 2020, temperature=4.3, windVelocity=1.5, relativeHumidity=63.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jan 26 00:00:00 KST 2020,5.5,2.7,56.3
+CurrentConditionsDisplay [dateTime=Sun Jan 26 00:00:00 KST 2020, temperature=5.5, windVelocity=2.7, relativeHumidity=56.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jan 27 00:00:00 KST 2020,5.9,4.6,48.1
+CurrentConditionsDisplay [dateTime=Mon Jan 27 00:00:00 KST 2020, temperature=5.9, windVelocity=4.6, relativeHumidity=48.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jan 28 00:00:00 KST 2020,6.8,2.6,49.4
+CurrentConditionsDisplay [dateTime=Tue Jan 28 00:00:00 KST 2020, temperature=6.8, windVelocity=2.6, relativeHumidity=49.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jan 29 00:00:00 KST 2020,6.0,2.1,46.4
+CurrentConditionsDisplay [dateTime=Wed Jan 29 00:00:00 KST 2020, temperature=6.0, windVelocity=2.1, relativeHumidity=46.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jan 30 00:00:00 KST 2020,5.2,1.8,47.0
+CurrentConditionsDisplay [dateTime=Thu Jan 30 00:00:00 KST 2020, temperature=5.2, windVelocity=1.8, relativeHumidity=47.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jan 31 00:00:00 KST 2020,3.9,2.3,59.6
+CurrentConditionsDisplay [dateTime=Fri Jan 31 00:00:00 KST 2020, temperature=3.9, windVelocity=2.3, relativeHumidity=59.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Feb 01 00:00:00 KST 2020,2.6,1.7,66.6
+CurrentConditionsDisplay [dateTime=Sat Feb 01 00:00:00 KST 2020, temperature=2.6, windVelocity=1.7, relativeHumidity=66.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Feb 02 00:00:00 KST 2020,1.5,1.8,52.3
+CurrentConditionsDisplay [dateTime=Sun Feb 02 00:00:00 KST 2020, temperature=1.5, windVelocity=1.8, relativeHumidity=52.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Feb 03 00:00:00 KST 2020,-0.4,3.1,43.6
+CurrentConditionsDisplay [dateTime=Mon Feb 03 00:00:00 KST 2020, temperature=-0.4, windVelocity=3.1, relativeHumidity=43.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Feb 04 00:00:00 KST 2020,-1.6,2.8,50.3
+CurrentConditionsDisplay [dateTime=Tue Feb 04 00:00:00 KST 2020, temperature=-1.6, windVelocity=2.8, relativeHumidity=50.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Feb 05 00:00:00 KST 2020,-8.3,3.3,37.3
+CurrentConditionsDisplay [dateTime=Wed Feb 05 00:00:00 KST 2020, temperature=-8.3, windVelocity=3.3, relativeHumidity=37.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=CAUTION]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Feb 06 00:00:00 KST 2020,-6.4,1.9,36.4
+CurrentConditionsDisplay [dateTime=Thu Feb 06 00:00:00 KST 2020, temperature=-6.4, windVelocity=1.9, relativeHumidity=36.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Feb 07 00:00:00 KST 2020,-1.7,2.0,45.1
+CurrentConditionsDisplay [dateTime=Fri Feb 07 00:00:00 KST 2020, temperature=-1.7, windVelocity=2.0, relativeHumidity=45.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Feb 08 00:00:00 KST 2020,-0.1,3.0,48.1
+CurrentConditionsDisplay [dateTime=Sat Feb 08 00:00:00 KST 2020, temperature=-0.1, windVelocity=3.0, relativeHumidity=48.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Feb 09 00:00:00 KST 2020,-0.5,2.0,51.1
+CurrentConditionsDisplay [dateTime=Sun Feb 09 00:00:00 KST 2020, temperature=-0.5, windVelocity=2.0, relativeHumidity=51.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Feb 10 00:00:00 KST 2020,4.0,1.7,49.4
+CurrentConditionsDisplay [dateTime=Mon Feb 10 00:00:00 KST 2020, temperature=4.0, windVelocity=1.7, relativeHumidity=49.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Feb 11 00:00:00 KST 2020,6.8,1.6,37.0
+CurrentConditionsDisplay [dateTime=Tue Feb 11 00:00:00 KST 2020, temperature=6.8, windVelocity=1.6, relativeHumidity=37.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Feb 12 00:00:00 KST 2020,7.4,2.2,73.4
+CurrentConditionsDisplay [dateTime=Wed Feb 12 00:00:00 KST 2020, temperature=7.4, windVelocity=2.2, relativeHumidity=73.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Feb 13 00:00:00 KST 2020,6.5,1.7,84.8
+CurrentConditionsDisplay [dateTime=Thu Feb 13 00:00:00 KST 2020, temperature=6.5, windVelocity=1.7, relativeHumidity=84.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Feb 14 00:00:00 KST 2020,8.1,1.2,70.3
+CurrentConditionsDisplay [dateTime=Fri Feb 14 00:00:00 KST 2020, temperature=8.1, windVelocity=1.2, relativeHumidity=70.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Feb 15 00:00:00 KST 2020,9.8,2.7,63.0
+CurrentConditionsDisplay [dateTime=Sat Feb 15 00:00:00 KST 2020, temperature=9.8, windVelocity=2.7, relativeHumidity=63.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Feb 16 00:00:00 KST 2020,-1.4,4.0,81.1
+CurrentConditionsDisplay [dateTime=Sun Feb 16 00:00:00 KST 2020, temperature=-1.4, windVelocity=4.0, relativeHumidity=81.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Feb 17 00:00:00 KST 2020,-5.9,3.4,64.3
+CurrentConditionsDisplay [dateTime=Mon Feb 17 00:00:00 KST 2020, temperature=-5.9, windVelocity=3.4, relativeHumidity=64.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=CAUTION]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Feb 18 00:00:00 KST 2020,-4.1,2.3,44.0
+CurrentConditionsDisplay [dateTime=Tue Feb 18 00:00:00 KST 2020, temperature=-4.1, windVelocity=2.3, relativeHumidity=44.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Feb 19 00:00:00 KST 2020,1.0,1.5,56.8
+CurrentConditionsDisplay [dateTime=Wed Feb 19 00:00:00 KST 2020, temperature=1.0, windVelocity=1.5, relativeHumidity=56.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Feb 20 00:00:00 KST 2020,4.6,1.7,62.6
+CurrentConditionsDisplay [dateTime=Thu Feb 20 00:00:00 KST 2020, temperature=4.6, windVelocity=1.7, relativeHumidity=62.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Feb 21 00:00:00 KST 2020,6.7,2.2,66.3
+CurrentConditionsDisplay [dateTime=Fri Feb 21 00:00:00 KST 2020, temperature=6.7, windVelocity=2.2, relativeHumidity=66.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Feb 22 00:00:00 KST 2020,4.0,4.0,62.0
+CurrentConditionsDisplay [dateTime=Sat Feb 22 00:00:00 KST 2020, temperature=4.0, windVelocity=4.0, relativeHumidity=62.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Feb 23 00:00:00 KST 2020,2.5,2.0,48.6
+CurrentConditionsDisplay [dateTime=Sun Feb 23 00:00:00 KST 2020, temperature=2.5, windVelocity=2.0, relativeHumidity=48.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Feb 24 00:00:00 KST 2020,7.0,1.6,51.8
+CurrentConditionsDisplay [dateTime=Mon Feb 24 00:00:00 KST 2020, temperature=7.0, windVelocity=1.6, relativeHumidity=51.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Feb 25 00:00:00 KST 2020,6.7,4.2,73.5
+CurrentConditionsDisplay [dateTime=Tue Feb 25 00:00:00 KST 2020, temperature=6.7, windVelocity=4.2, relativeHumidity=73.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Feb 26 00:00:00 KST 2020,6.4,2.1,59.6
+CurrentConditionsDisplay [dateTime=Wed Feb 26 00:00:00 KST 2020, temperature=6.4, windVelocity=2.1, relativeHumidity=59.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Feb 27 00:00:00 KST 2020,6.1,2.0,54.0
+CurrentConditionsDisplay [dateTime=Thu Feb 27 00:00:00 KST 2020, temperature=6.1, windVelocity=2.0, relativeHumidity=54.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Feb 28 00:00:00 KST 2020,4.5,1.4,79.4
+CurrentConditionsDisplay [dateTime=Fri Feb 28 00:00:00 KST 2020, temperature=4.5, windVelocity=1.4, relativeHumidity=79.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Feb 29 00:00:00 KST 2020,7.7,1.7,68.6
+CurrentConditionsDisplay [dateTime=Sat Feb 29 00:00:00 KST 2020, temperature=7.7, windVelocity=1.7, relativeHumidity=68.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Mar 01 00:00:00 KST 2020,5.8,2.0,71.8
+CurrentConditionsDisplay [dateTime=Sun Mar 01 00:00:00 KST 2020, temperature=5.8, windVelocity=2.0, relativeHumidity=71.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Mar 02 00:00:00 KST 2020,3.4,2.7,55.3
+CurrentConditionsDisplay [dateTime=Mon Mar 02 00:00:00 KST 2020, temperature=3.4, windVelocity=2.7, relativeHumidity=55.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Mar 03 00:00:00 KST 2020,4.8,2.6,57.0
+CurrentConditionsDisplay [dateTime=Tue Mar 03 00:00:00 KST 2020, temperature=4.8, windVelocity=2.6, relativeHumidity=57.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Mar 04 00:00:00 KST 2020,2.2,3.7,53.4
+CurrentConditionsDisplay [dateTime=Wed Mar 04 00:00:00 KST 2020, temperature=2.2, windVelocity=3.7, relativeHumidity=53.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Mar 05 00:00:00 KST 2020,1.4,2.5,47.5
+CurrentConditionsDisplay [dateTime=Thu Mar 05 00:00:00 KST 2020, temperature=1.4, windVelocity=2.5, relativeHumidity=47.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Mar 06 00:00:00 KST 2020,3.7,1.6,46.8
+CurrentConditionsDisplay [dateTime=Fri Mar 06 00:00:00 KST 2020, temperature=3.7, windVelocity=1.6, relativeHumidity=46.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Mar 07 00:00:00 KST 2020,7.0,2.0,39.5
+CurrentConditionsDisplay [dateTime=Sat Mar 07 00:00:00 KST 2020, temperature=7.0, windVelocity=2.0, relativeHumidity=39.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Mar 08 00:00:00 KST 2020,9.3,1.6,43.8
+CurrentConditionsDisplay [dateTime=Sun Mar 08 00:00:00 KST 2020, temperature=9.3, windVelocity=1.6, relativeHumidity=43.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Mar 09 00:00:00 KST 2020,11.1,1.8,37.6
+CurrentConditionsDisplay [dateTime=Mon Mar 09 00:00:00 KST 2020, temperature=11.1, windVelocity=1.8, relativeHumidity=37.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Mar 10 00:00:00 KST 2020,6.4,2.8,78.4
+CurrentConditionsDisplay [dateTime=Tue Mar 10 00:00:00 KST 2020, temperature=6.4, windVelocity=2.8, relativeHumidity=78.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Mar 11 00:00:00 KST 2020,3.8,3.3,41.8
+CurrentConditionsDisplay [dateTime=Wed Mar 11 00:00:00 KST 2020, temperature=3.8, windVelocity=3.3, relativeHumidity=41.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Mar 12 00:00:00 KST 2020,6.8,2.5,49.8
+CurrentConditionsDisplay [dateTime=Thu Mar 12 00:00:00 KST 2020, temperature=6.8, windVelocity=2.5, relativeHumidity=49.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Mar 13 00:00:00 KST 2020,4.9,3.3,41.0
+CurrentConditionsDisplay [dateTime=Fri Mar 13 00:00:00 KST 2020, temperature=4.9, windVelocity=3.3, relativeHumidity=41.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Mar 14 00:00:00 KST 2020,3.6,3.0,48.1
+CurrentConditionsDisplay [dateTime=Sat Mar 14 00:00:00 KST 2020, temperature=3.6, windVelocity=3.0, relativeHumidity=48.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Mar 15 00:00:00 KST 2020,4.0,3.6,48.3
+CurrentConditionsDisplay [dateTime=Sun Mar 15 00:00:00 KST 2020, temperature=4.0, windVelocity=3.6, relativeHumidity=48.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Mar 16 00:00:00 KST 2020,3.6,2.8,42.4
+CurrentConditionsDisplay [dateTime=Mon Mar 16 00:00:00 KST 2020, temperature=3.6, windVelocity=2.8, relativeHumidity=42.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Mar 17 00:00:00 KST 2020,6.6,2.1,65.8
+CurrentConditionsDisplay [dateTime=Tue Mar 17 00:00:00 KST 2020, temperature=6.6, windVelocity=2.1, relativeHumidity=65.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Mar 18 00:00:00 KST 2020,10.0,1.8,45.8
+CurrentConditionsDisplay [dateTime=Wed Mar 18 00:00:00 KST 2020, temperature=10.0, windVelocity=1.8, relativeHumidity=45.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Mar 19 00:00:00 KST 2020,9.1,4.8,49.0
+CurrentConditionsDisplay [dateTime=Thu Mar 19 00:00:00 KST 2020, temperature=9.1, windVelocity=4.8, relativeHumidity=49.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Mar 20 00:00:00 KST 2020,8.8,3.1,39.6
+CurrentConditionsDisplay [dateTime=Fri Mar 20 00:00:00 KST 2020, temperature=8.8, windVelocity=3.1, relativeHumidity=39.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Mar 21 00:00:00 KST 2020,12.8,2.0,56.5
+CurrentConditionsDisplay [dateTime=Sat Mar 21 00:00:00 KST 2020, temperature=12.8, windVelocity=2.0, relativeHumidity=56.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Mar 22 00:00:00 KST 2020,11.0,3.0,37.5
+CurrentConditionsDisplay [dateTime=Sun Mar 22 00:00:00 KST 2020, temperature=11.0, windVelocity=3.0, relativeHumidity=37.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Mar 23 00:00:00 KST 2020,10.6,1.9,37.9
+CurrentConditionsDisplay [dateTime=Mon Mar 23 00:00:00 KST 2020, temperature=10.6, windVelocity=1.9, relativeHumidity=37.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Mar 24 00:00:00 KST 2020,11.4,1.8,35.0
+CurrentConditionsDisplay [dateTime=Tue Mar 24 00:00:00 KST 2020, temperature=11.4, windVelocity=1.8, relativeHumidity=35.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Mar 25 00:00:00 KST 2020,12.5,1.9,33.6
+CurrentConditionsDisplay [dateTime=Wed Mar 25 00:00:00 KST 2020, temperature=12.5, windVelocity=1.9, relativeHumidity=33.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Mar 26 00:00:00 KST 2020,14.8,1.9,53.8
+CurrentConditionsDisplay [dateTime=Thu Mar 26 00:00:00 KST 2020, temperature=14.8, windVelocity=1.9, relativeHumidity=53.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Mar 27 00:00:00 KST 2020,11.9,3.3,56.4
+CurrentConditionsDisplay [dateTime=Fri Mar 27 00:00:00 KST 2020, temperature=11.9, windVelocity=3.3, relativeHumidity=56.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Mar 28 00:00:00 KST 2020,7.7,3.2,17.9
+CurrentConditionsDisplay [dateTime=Sat Mar 28 00:00:00 KST 2020, temperature=7.7, windVelocity=3.2, relativeHumidity=17.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Mar 29 00:00:00 KST 2020,8.7,2.0,30.6
+CurrentConditionsDisplay [dateTime=Sun Mar 29 00:00:00 KST 2020, temperature=8.7, windVelocity=2.0, relativeHumidity=30.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Mar 30 00:00:00 KST 2020,10.2,1.8,38.4
+CurrentConditionsDisplay [dateTime=Mon Mar 30 00:00:00 KST 2020, temperature=10.2, windVelocity=1.8, relativeHumidity=38.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Mar 31 00:00:00 KST 2020,11.9,2.0,34.5
+CurrentConditionsDisplay [dateTime=Tue Mar 31 00:00:00 KST 2020, temperature=11.9, windVelocity=2.0, relativeHumidity=34.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Apr 01 00:00:00 KST 2020,11.3,3.7,35.6
+CurrentConditionsDisplay [dateTime=Wed Apr 01 00:00:00 KST 2020, temperature=11.3, windVelocity=3.7, relativeHumidity=35.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Apr 02 00:00:00 KST 2020,9.3,2.3,41.4
+CurrentConditionsDisplay [dateTime=Thu Apr 02 00:00:00 KST 2020, temperature=9.3, windVelocity=2.3, relativeHumidity=41.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Apr 03 00:00:00 KST 2020,10.0,2.7,53.8
+CurrentConditionsDisplay [dateTime=Fri Apr 03 00:00:00 KST 2020, temperature=10.0, windVelocity=2.7, relativeHumidity=53.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Apr 04 00:00:00 KST 2020,8.9,3.4,36.4
+CurrentConditionsDisplay [dateTime=Sat Apr 04 00:00:00 KST 2020, temperature=8.9, windVelocity=3.4, relativeHumidity=36.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Apr 05 00:00:00 KST 2020,7.2,2.8,29.5
+CurrentConditionsDisplay [dateTime=Sun Apr 05 00:00:00 KST 2020, temperature=7.2, windVelocity=2.8, relativeHumidity=29.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Apr 06 00:00:00 KST 2020,9.3,2.4,38.3
+CurrentConditionsDisplay [dateTime=Mon Apr 06 00:00:00 KST 2020, temperature=9.3, windVelocity=2.4, relativeHumidity=38.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Apr 07 00:00:00 KST 2020,10.6,2.5,56.6
+CurrentConditionsDisplay [dateTime=Tue Apr 07 00:00:00 KST 2020, temperature=10.6, windVelocity=2.5, relativeHumidity=56.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Apr 08 00:00:00 KST 2020,9.4,3.5,25.5
+CurrentConditionsDisplay [dateTime=Wed Apr 08 00:00:00 KST 2020, temperature=9.4, windVelocity=3.5, relativeHumidity=25.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Apr 09 00:00:00 KST 2020,8.9,2.8,44.6
+CurrentConditionsDisplay [dateTime=Thu Apr 09 00:00:00 KST 2020, temperature=8.9, windVelocity=2.8, relativeHumidity=44.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Apr 10 00:00:00 KST 2020,10.7,2.4,52.6
+CurrentConditionsDisplay [dateTime=Fri Apr 10 00:00:00 KST 2020, temperature=10.7, windVelocity=2.4, relativeHumidity=52.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Apr 11 00:00:00 KST 2020,9.9,2.5,63.8
+CurrentConditionsDisplay [dateTime=Sat Apr 11 00:00:00 KST 2020, temperature=9.9, windVelocity=2.5, relativeHumidity=63.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Apr 12 00:00:00 KST 2020,9.9,3.8,58.6
+CurrentConditionsDisplay [dateTime=Sun Apr 12 00:00:00 KST 2020, temperature=9.9, windVelocity=3.8, relativeHumidity=58.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Apr 13 00:00:00 KST 2020,12.4,3.1,39.4
+CurrentConditionsDisplay [dateTime=Mon Apr 13 00:00:00 KST 2020, temperature=12.4, windVelocity=3.1, relativeHumidity=39.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Apr 14 00:00:00 KST 2020,13.0,2.4,46.8
+CurrentConditionsDisplay [dateTime=Tue Apr 14 00:00:00 KST 2020, temperature=13.0, windVelocity=2.4, relativeHumidity=46.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Apr 15 00:00:00 KST 2020,13.2,2.2,39.8
+CurrentConditionsDisplay [dateTime=Wed Apr 15 00:00:00 KST 2020, temperature=13.2, windVelocity=2.2, relativeHumidity=39.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Apr 16 00:00:00 KST 2020,16.0,2.3,39.9
+CurrentConditionsDisplay [dateTime=Thu Apr 16 00:00:00 KST 2020, temperature=16.0, windVelocity=2.3, relativeHumidity=39.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Apr 17 00:00:00 KST 2020,12.5,2.4,77.8
+CurrentConditionsDisplay [dateTime=Fri Apr 17 00:00:00 KST 2020, temperature=12.5, windVelocity=2.4, relativeHumidity=77.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Apr 18 00:00:00 KST 2020,13.5,2.6,67.9
+CurrentConditionsDisplay [dateTime=Sat Apr 18 00:00:00 KST 2020, temperature=13.5, windVelocity=2.6, relativeHumidity=67.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Apr 19 00:00:00 KST 2020,12.3,2.7,75.8
+CurrentConditionsDisplay [dateTime=Sun Apr 19 00:00:00 KST 2020, temperature=12.3, windVelocity=2.7, relativeHumidity=75.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Apr 20 00:00:00 KST 2020,10.0,3.3,73.0
+CurrentConditionsDisplay [dateTime=Mon Apr 20 00:00:00 KST 2020, temperature=10.0, windVelocity=3.3, relativeHumidity=73.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Apr 21 00:00:00 KST 2020,7.4,4.4,49.0
+CurrentConditionsDisplay [dateTime=Tue Apr 21 00:00:00 KST 2020, temperature=7.4, windVelocity=4.4, relativeHumidity=49.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Apr 22 00:00:00 KST 2020,6.0,4.0,46.8
+CurrentConditionsDisplay [dateTime=Wed Apr 22 00:00:00 KST 2020, temperature=6.0, windVelocity=4.0, relativeHumidity=46.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Apr 23 00:00:00 KST 2020,7.9,3.7,47.8
+CurrentConditionsDisplay [dateTime=Thu Apr 23 00:00:00 KST 2020, temperature=7.9, windVelocity=3.7, relativeHumidity=47.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Apr 24 00:00:00 KST 2020,9.9,3.9,55.6
+CurrentConditionsDisplay [dateTime=Fri Apr 24 00:00:00 KST 2020, temperature=9.9, windVelocity=3.9, relativeHumidity=55.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Apr 25 00:00:00 KST 2020,13.1,3.9,54.4
+CurrentConditionsDisplay [dateTime=Sat Apr 25 00:00:00 KST 2020, temperature=13.1, windVelocity=3.9, relativeHumidity=54.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Apr 26 00:00:00 KST 2020,12.3,3.2,43.1
+CurrentConditionsDisplay [dateTime=Sun Apr 26 00:00:00 KST 2020, temperature=12.3, windVelocity=3.2, relativeHumidity=43.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Apr 27 00:00:00 KST 2020,12.9,2.8,49.8
+CurrentConditionsDisplay [dateTime=Mon Apr 27 00:00:00 KST 2020, temperature=12.9, windVelocity=2.8, relativeHumidity=49.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Apr 28 00:00:00 KST 2020,13.9,3.0,50.0
+CurrentConditionsDisplay [dateTime=Tue Apr 28 00:00:00 KST 2020, temperature=13.9, windVelocity=3.0, relativeHumidity=50.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Apr 29 00:00:00 KST 2020,14.9,2.6,48.6
+CurrentConditionsDisplay [dateTime=Wed Apr 29 00:00:00 KST 2020, temperature=14.9, windVelocity=2.6, relativeHumidity=48.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Apr 30 00:00:00 KST 2020,17.1,2.7,57.1
+CurrentConditionsDisplay [dateTime=Thu Apr 30 00:00:00 KST 2020, temperature=17.1, windVelocity=2.7, relativeHumidity=57.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri May 01 00:00:00 KST 2020,20.2,2.7,73.6
+CurrentConditionsDisplay [dateTime=Fri May 01 00:00:00 KST 2020, temperature=20.2, windVelocity=2.7, relativeHumidity=73.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat May 02 00:00:00 KST 2020,20.3,2.3,79.6
+CurrentConditionsDisplay [dateTime=Sat May 02 00:00:00 KST 2020, temperature=20.3, windVelocity=2.3, relativeHumidity=79.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sun May 03 00:00:00 KST 2020,21.8,2.0,68.8
+CurrentConditionsDisplay [dateTime=Sun May 03 00:00:00 KST 2020, temperature=21.8, windVelocity=2.0, relativeHumidity=68.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon May 04 00:00:00 KST 2020,20.2,2.7,63.9
+CurrentConditionsDisplay [dateTime=Mon May 04 00:00:00 KST 2020, temperature=20.2, windVelocity=2.7, relativeHumidity=63.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue May 05 00:00:00 KST 2020,16.0,1.9,67.9
+CurrentConditionsDisplay [dateTime=Tue May 05 00:00:00 KST 2020, temperature=16.0, windVelocity=1.9, relativeHumidity=67.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed May 06 00:00:00 KST 2020,19.4,2.1,50.0
+CurrentConditionsDisplay [dateTime=Wed May 06 00:00:00 KST 2020, temperature=19.4, windVelocity=2.1, relativeHumidity=50.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu May 07 00:00:00 KST 2020,20.7,2.5,32.5
+CurrentConditionsDisplay [dateTime=Thu May 07 00:00:00 KST 2020, temperature=20.7, windVelocity=2.5, relativeHumidity=32.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri May 08 00:00:00 KST 2020,19.9,2.4,32.8
+CurrentConditionsDisplay [dateTime=Fri May 08 00:00:00 KST 2020, temperature=19.9, windVelocity=2.4, relativeHumidity=32.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat May 09 00:00:00 KST 2020,14.2,3.6,94.4
+CurrentConditionsDisplay [dateTime=Sat May 09 00:00:00 KST 2020, temperature=14.2, windVelocity=3.6, relativeHumidity=94.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sun May 10 00:00:00 KST 2020,14.4,2.5,88.6
+CurrentConditionsDisplay [dateTime=Sun May 10 00:00:00 KST 2020, temperature=14.4, windVelocity=2.5, relativeHumidity=88.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Mon May 11 00:00:00 KST 2020,16.5,3.0,61.0
+CurrentConditionsDisplay [dateTime=Mon May 11 00:00:00 KST 2020, temperature=16.5, windVelocity=3.0, relativeHumidity=61.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue May 12 00:00:00 KST 2020,14.3,2.9,69.4
+CurrentConditionsDisplay [dateTime=Tue May 12 00:00:00 KST 2020, temperature=14.3, windVelocity=2.9, relativeHumidity=69.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed May 13 00:00:00 KST 2020,16.1,2.8,47.3
+CurrentConditionsDisplay [dateTime=Wed May 13 00:00:00 KST 2020, temperature=16.1, windVelocity=2.8, relativeHumidity=47.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu May 14 00:00:00 KST 2020,19.3,2.0,35.4
+CurrentConditionsDisplay [dateTime=Thu May 14 00:00:00 KST 2020, temperature=19.3, windVelocity=2.0, relativeHumidity=35.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri May 15 00:00:00 KST 2020,16.1,3.0,81.4
+CurrentConditionsDisplay [dateTime=Fri May 15 00:00:00 KST 2020, temperature=16.1, windVelocity=3.0, relativeHumidity=81.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat May 16 00:00:00 KST 2020,16.7,1.6,90.3
+CurrentConditionsDisplay [dateTime=Sat May 16 00:00:00 KST 2020, temperature=16.7, windVelocity=1.6, relativeHumidity=90.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sun May 17 00:00:00 KST 2020,19.1,1.7,80.1
+CurrentConditionsDisplay [dateTime=Sun May 17 00:00:00 KST 2020, temperature=19.1, windVelocity=1.7, relativeHumidity=80.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon May 18 00:00:00 KST 2020,19.1,2.4,79.4
+CurrentConditionsDisplay [dateTime=Mon May 18 00:00:00 KST 2020, temperature=19.1, windVelocity=2.4, relativeHumidity=79.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue May 19 00:00:00 KST 2020,13.0,3.2,73.6
+CurrentConditionsDisplay [dateTime=Tue May 19 00:00:00 KST 2020, temperature=13.0, windVelocity=3.2, relativeHumidity=73.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed May 20 00:00:00 KST 2020,14.4,1.9,60.4
+CurrentConditionsDisplay [dateTime=Wed May 20 00:00:00 KST 2020, temperature=14.4, windVelocity=1.9, relativeHumidity=60.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu May 21 00:00:00 KST 2020,17.4,2.1,56.1
+CurrentConditionsDisplay [dateTime=Thu May 21 00:00:00 KST 2020, temperature=17.4, windVelocity=2.1, relativeHumidity=56.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri May 22 00:00:00 KST 2020,18.5,1.9,68.5
+CurrentConditionsDisplay [dateTime=Fri May 22 00:00:00 KST 2020, temperature=18.5, windVelocity=1.9, relativeHumidity=68.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat May 23 00:00:00 KST 2020,20.1,2.2,66.1
+CurrentConditionsDisplay [dateTime=Sat May 23 00:00:00 KST 2020, temperature=20.1, windVelocity=2.2, relativeHumidity=66.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun May 24 00:00:00 KST 2020,17.1,2.9,84.8
+CurrentConditionsDisplay [dateTime=Sun May 24 00:00:00 KST 2020, temperature=17.1, windVelocity=2.9, relativeHumidity=84.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Mon May 25 00:00:00 KST 2020,16.6,2.1,81.0
+CurrentConditionsDisplay [dateTime=Mon May 25 00:00:00 KST 2020, temperature=16.6, windVelocity=2.1, relativeHumidity=81.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue May 26 00:00:00 KST 2020,16.2,2.1,81.9
+CurrentConditionsDisplay [dateTime=Tue May 26 00:00:00 KST 2020, temperature=16.2, windVelocity=2.1, relativeHumidity=81.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed May 27 00:00:00 KST 2020,17.4,2.6,68.5
+CurrentConditionsDisplay [dateTime=Wed May 27 00:00:00 KST 2020, temperature=17.4, windVelocity=2.6, relativeHumidity=68.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu May 28 00:00:00 KST 2020,18.7,1.9,62.8
+CurrentConditionsDisplay [dateTime=Thu May 28 00:00:00 KST 2020, temperature=18.7, windVelocity=1.9, relativeHumidity=62.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri May 29 00:00:00 KST 2020,20.7,2.0,65.6
+CurrentConditionsDisplay [dateTime=Fri May 29 00:00:00 KST 2020, temperature=20.7, windVelocity=2.0, relativeHumidity=65.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat May 30 00:00:00 KST 2020,22.6,1.9,57.3
+CurrentConditionsDisplay [dateTime=Sat May 30 00:00:00 KST 2020, temperature=22.6, windVelocity=1.9, relativeHumidity=57.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun May 31 00:00:00 KST 2020,21.2,2.3,63.0
+CurrentConditionsDisplay [dateTime=Sun May 31 00:00:00 KST 2020, temperature=21.2, windVelocity=2.3, relativeHumidity=63.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jun 01 00:00:00 KST 2020,19.7,3.4,64.3
+CurrentConditionsDisplay [dateTime=Mon Jun 01 00:00:00 KST 2020, temperature=19.7, windVelocity=3.4, relativeHumidity=64.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jun 02 00:00:00 KST 2020,17.9,2.2,71.0
+CurrentConditionsDisplay [dateTime=Tue Jun 02 00:00:00 KST 2020, temperature=17.9, windVelocity=2.2, relativeHumidity=71.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jun 03 00:00:00 KST 2020,22.0,2.4,73.3
+CurrentConditionsDisplay [dateTime=Wed Jun 03 00:00:00 KST 2020, temperature=22.0, windVelocity=2.4, relativeHumidity=73.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jun 04 00:00:00 KST 2020,21.9,2.7,81.1
+CurrentConditionsDisplay [dateTime=Thu Jun 04 00:00:00 KST 2020, temperature=21.9, windVelocity=2.7, relativeHumidity=81.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Jun 05 00:00:00 KST 2020,23.0,1.8,69.4
+CurrentConditionsDisplay [dateTime=Fri Jun 05 00:00:00 KST 2020, temperature=23.0, windVelocity=1.8, relativeHumidity=69.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jun 06 00:00:00 KST 2020,24.6,2.0,63.6
+CurrentConditionsDisplay [dateTime=Sat Jun 06 00:00:00 KST 2020, temperature=24.6, windVelocity=2.0, relativeHumidity=63.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jun 07 00:00:00 KST 2020,22.7,2.3,69.4
+CurrentConditionsDisplay [dateTime=Sun Jun 07 00:00:00 KST 2020, temperature=22.7, windVelocity=2.3, relativeHumidity=69.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jun 08 00:00:00 KST 2020,25.0,2.1,63.6
+CurrentConditionsDisplay [dateTime=Mon Jun 08 00:00:00 KST 2020, temperature=25.0, windVelocity=2.1, relativeHumidity=63.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jun 09 00:00:00 KST 2020,26.7,2.3,51.6
+CurrentConditionsDisplay [dateTime=Tue Jun 09 00:00:00 KST 2020, temperature=26.7, windVelocity=2.3, relativeHumidity=51.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jun 10 00:00:00 KST 2020,25.8,2.0,63.8
+CurrentConditionsDisplay [dateTime=Wed Jun 10 00:00:00 KST 2020, temperature=25.8, windVelocity=2.0, relativeHumidity=63.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jun 11 00:00:00 KST 2020,26.1,2.2,68.3
+CurrentConditionsDisplay [dateTime=Thu Jun 11 00:00:00 KST 2020, temperature=26.1, windVelocity=2.2, relativeHumidity=68.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jun 12 00:00:00 KST 2020,24.7,1.7,68.6
+CurrentConditionsDisplay [dateTime=Fri Jun 12 00:00:00 KST 2020, temperature=24.7, windVelocity=1.7, relativeHumidity=68.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jun 13 00:00:00 KST 2020,26.9,1.9,52.8
+CurrentConditionsDisplay [dateTime=Sat Jun 13 00:00:00 KST 2020, temperature=26.9, windVelocity=1.9, relativeHumidity=52.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jun 14 00:00:00 KST 2020,24.0,2.9,70.6
+CurrentConditionsDisplay [dateTime=Sun Jun 14 00:00:00 KST 2020, temperature=24.0, windVelocity=2.9, relativeHumidity=70.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jun 15 00:00:00 KST 2020,23.0,2.8,62.3
+CurrentConditionsDisplay [dateTime=Mon Jun 15 00:00:00 KST 2020, temperature=23.0, windVelocity=2.8, relativeHumidity=62.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jun 16 00:00:00 KST 2020,24.4,2.2,63.0
+CurrentConditionsDisplay [dateTime=Tue Jun 16 00:00:00 KST 2020, temperature=24.4, windVelocity=2.2, relativeHumidity=63.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jun 17 00:00:00 KST 2020,24.3,2.0,58.6
+CurrentConditionsDisplay [dateTime=Wed Jun 17 00:00:00 KST 2020, temperature=24.3, windVelocity=2.0, relativeHumidity=58.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jun 18 00:00:00 KST 2020,23.4,1.6,61.4
+CurrentConditionsDisplay [dateTime=Thu Jun 18 00:00:00 KST 2020, temperature=23.4, windVelocity=1.6, relativeHumidity=61.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jun 19 00:00:00 KST 2020,24.7,2.1,61.4
+CurrentConditionsDisplay [dateTime=Fri Jun 19 00:00:00 KST 2020, temperature=24.7, windVelocity=2.1, relativeHumidity=61.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jun 20 00:00:00 KST 2020,24.9,2.1,62.6
+CurrentConditionsDisplay [dateTime=Sat Jun 20 00:00:00 KST 2020, temperature=24.9, windVelocity=2.1, relativeHumidity=62.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jun 21 00:00:00 KST 2020,26.1,2.0,59.5
+CurrentConditionsDisplay [dateTime=Sun Jun 21 00:00:00 KST 2020, temperature=26.1, windVelocity=2.0, relativeHumidity=59.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jun 22 00:00:00 KST 2020,28.6,2.0,50.5
+CurrentConditionsDisplay [dateTime=Mon Jun 22 00:00:00 KST 2020, temperature=28.6, windVelocity=2.0, relativeHumidity=50.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jun 23 00:00:00 KST 2020,27.3,1.9,53.5
+CurrentConditionsDisplay [dateTime=Tue Jun 23 00:00:00 KST 2020, temperature=27.3, windVelocity=1.9, relativeHumidity=53.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jun 24 00:00:00 KST 2020,22.3,2.7,83.5
+CurrentConditionsDisplay [dateTime=Wed Jun 24 00:00:00 KST 2020, temperature=22.3, windVelocity=2.7, relativeHumidity=83.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Jun 25 00:00:00 KST 2020,21.6,2.2,91.0
+CurrentConditionsDisplay [dateTime=Thu Jun 25 00:00:00 KST 2020, temperature=21.6, windVelocity=2.2, relativeHumidity=91.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Jun 26 00:00:00 KST 2020,21.8,3.2,82.1
+CurrentConditionsDisplay [dateTime=Fri Jun 26 00:00:00 KST 2020, temperature=21.8, windVelocity=3.2, relativeHumidity=82.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sat Jun 27 00:00:00 KST 2020,24.1,2.0,70.4
+CurrentConditionsDisplay [dateTime=Sat Jun 27 00:00:00 KST 2020, temperature=24.1, windVelocity=2.0, relativeHumidity=70.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jun 28 00:00:00 KST 2020,25.2,2.4,70.5
+CurrentConditionsDisplay [dateTime=Sun Jun 28 00:00:00 KST 2020, temperature=25.2, windVelocity=2.4, relativeHumidity=70.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jun 29 00:00:00 KST 2020,23.8,2.4,77.0
+CurrentConditionsDisplay [dateTime=Mon Jun 29 00:00:00 KST 2020, temperature=23.8, windVelocity=2.4, relativeHumidity=77.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Jun 30 00:00:00 KST 2020,20.1,4.0,83.0
+CurrentConditionsDisplay [dateTime=Tue Jun 30 00:00:00 KST 2020, temperature=20.1, windVelocity=4.0, relativeHumidity=83.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Wed Jul 01 00:00:00 KST 2020,21.1,1.9,79.3
+CurrentConditionsDisplay [dateTime=Wed Jul 01 00:00:00 KST 2020, temperature=21.1, windVelocity=1.9, relativeHumidity=79.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Jul 02 00:00:00 KST 2020,24.2,1.9,74.5
+CurrentConditionsDisplay [dateTime=Thu Jul 02 00:00:00 KST 2020, temperature=24.2, windVelocity=1.9, relativeHumidity=74.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jul 03 00:00:00 KST 2020,25.5,2.6,63.5
+CurrentConditionsDisplay [dateTime=Fri Jul 03 00:00:00 KST 2020, temperature=25.5, windVelocity=2.6, relativeHumidity=63.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jul 04 00:00:00 KST 2020,24.2,2.1,63.9
+CurrentConditionsDisplay [dateTime=Sat Jul 04 00:00:00 KST 2020, temperature=24.2, windVelocity=2.1, relativeHumidity=63.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jul 05 00:00:00 KST 2020,23.8,1.9,68.6
+CurrentConditionsDisplay [dateTime=Sun Jul 05 00:00:00 KST 2020, temperature=23.8, windVelocity=1.9, relativeHumidity=68.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jul 06 00:00:00 KST 2020,25.6,2.1,66.6
+CurrentConditionsDisplay [dateTime=Mon Jul 06 00:00:00 KST 2020, temperature=25.6, windVelocity=2.1, relativeHumidity=66.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Jul 07 00:00:00 KST 2020,24.1,2.5,75.5
+CurrentConditionsDisplay [dateTime=Tue Jul 07 00:00:00 KST 2020, temperature=24.1, windVelocity=2.5, relativeHumidity=75.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jul 08 00:00:00 KST 2020,25.5,2.0,71.9
+CurrentConditionsDisplay [dateTime=Wed Jul 08 00:00:00 KST 2020, temperature=25.5, windVelocity=2.0, relativeHumidity=71.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jul 09 00:00:00 KST 2020,27.5,1.7,64.6
+CurrentConditionsDisplay [dateTime=Thu Jul 09 00:00:00 KST 2020, temperature=27.5, windVelocity=1.7, relativeHumidity=64.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jul 10 00:00:00 KST 2020,24.5,2.8,75.0
+CurrentConditionsDisplay [dateTime=Fri Jul 10 00:00:00 KST 2020, temperature=24.5, windVelocity=2.8, relativeHumidity=75.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jul 11 00:00:00 KST 2020,25.8,2.6,62.6
+CurrentConditionsDisplay [dateTime=Sat Jul 11 00:00:00 KST 2020, temperature=25.8, windVelocity=2.6, relativeHumidity=62.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jul 12 00:00:00 KST 2020,23.5,2.4,71.9
+CurrentConditionsDisplay [dateTime=Sun Jul 12 00:00:00 KST 2020, temperature=23.5, windVelocity=2.4, relativeHumidity=71.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jul 13 00:00:00 KST 2020,18.7,4.0,94.8
+CurrentConditionsDisplay [dateTime=Mon Jul 13 00:00:00 KST 2020, temperature=18.7, windVelocity=4.0, relativeHumidity=94.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Jul 14 00:00:00 KST 2020,20.3,2.8,79.4
+CurrentConditionsDisplay [dateTime=Tue Jul 14 00:00:00 KST 2020, temperature=20.3, windVelocity=2.8, relativeHumidity=79.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Jul 15 00:00:00 KST 2020,23.4,2.0,63.1
+CurrentConditionsDisplay [dateTime=Wed Jul 15 00:00:00 KST 2020, temperature=23.4, windVelocity=2.0, relativeHumidity=63.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Jul 16 00:00:00 KST 2020,25.0,1.8,70.9
+CurrentConditionsDisplay [dateTime=Thu Jul 16 00:00:00 KST 2020, temperature=25.0, windVelocity=1.8, relativeHumidity=70.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Jul 17 00:00:00 KST 2020,26.0,1.9,72.0
+CurrentConditionsDisplay [dateTime=Fri Jul 17 00:00:00 KST 2020, temperature=26.0, windVelocity=1.9, relativeHumidity=72.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jul 18 00:00:00 KST 2020,26.1,1.6,71.6
+CurrentConditionsDisplay [dateTime=Sat Jul 18 00:00:00 KST 2020, temperature=26.1, windVelocity=1.6, relativeHumidity=71.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jul 19 00:00:00 KST 2020,24.0,2.7,81.6
+CurrentConditionsDisplay [dateTime=Sun Jul 19 00:00:00 KST 2020, temperature=24.0, windVelocity=2.7, relativeHumidity=81.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Mon Jul 20 00:00:00 KST 2020,23.8,3.7,86.3
+CurrentConditionsDisplay [dateTime=Mon Jul 20 00:00:00 KST 2020, temperature=23.8, windVelocity=3.7, relativeHumidity=86.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Jul 21 00:00:00 KST 2020,25.0,1.6,77.0
+CurrentConditionsDisplay [dateTime=Tue Jul 21 00:00:00 KST 2020, temperature=25.0, windVelocity=1.6, relativeHumidity=77.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Wed Jul 22 00:00:00 KST 2020,23.7,1.6,89.3
+CurrentConditionsDisplay [dateTime=Wed Jul 22 00:00:00 KST 2020, temperature=23.7, windVelocity=1.6, relativeHumidity=89.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Jul 23 00:00:00 KST 2020,21.1,3.6,95.5
+CurrentConditionsDisplay [dateTime=Thu Jul 23 00:00:00 KST 2020, temperature=21.1, windVelocity=3.6, relativeHumidity=95.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Jul 24 00:00:00 KST 2020,22.5,4.6,74.3
+CurrentConditionsDisplay [dateTime=Fri Jul 24 00:00:00 KST 2020, temperature=22.5, windVelocity=4.6, relativeHumidity=74.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Jul 25 00:00:00 KST 2020,24.3,3.1,69.3
+CurrentConditionsDisplay [dateTime=Sat Jul 25 00:00:00 KST 2020, temperature=24.3, windVelocity=3.1, relativeHumidity=69.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Jul 26 00:00:00 KST 2020,25.4,2.0,69.3
+CurrentConditionsDisplay [dateTime=Sun Jul 26 00:00:00 KST 2020, temperature=25.4, windVelocity=2.0, relativeHumidity=69.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Jul 27 00:00:00 KST 2020,24.3,2.2,86.4
+CurrentConditionsDisplay [dateTime=Mon Jul 27 00:00:00 KST 2020, temperature=24.3, windVelocity=2.2, relativeHumidity=86.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Jul 28 00:00:00 KST 2020,24.4,2.0,84.8
+CurrentConditionsDisplay [dateTime=Tue Jul 28 00:00:00 KST 2020, temperature=24.4, windVelocity=2.0, relativeHumidity=84.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Wed Jul 29 00:00:00 KST 2020,23.7,2.0,95.8
+CurrentConditionsDisplay [dateTime=Wed Jul 29 00:00:00 KST 2020, temperature=23.7, windVelocity=2.0, relativeHumidity=95.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Thu Jul 30 00:00:00 KST 2020,25.3,2.1,85.5
+CurrentConditionsDisplay [dateTime=Thu Jul 30 00:00:00 KST 2020, temperature=25.3, windVelocity=2.1, relativeHumidity=85.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Jul 31 00:00:00 KST 2020,26.2,2.0,81.9
+CurrentConditionsDisplay [dateTime=Fri Jul 31 00:00:00 KST 2020, temperature=26.2, windVelocity=2.0, relativeHumidity=81.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sat Aug 01 00:00:00 KST 2020,25.3,1.7,90.9
+CurrentConditionsDisplay [dateTime=Sat Aug 01 00:00:00 KST 2020, temperature=25.3, windVelocity=1.7, relativeHumidity=90.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Sun Aug 02 00:00:00 KST 2020,24.9,2.3,96.3
+CurrentConditionsDisplay [dateTime=Sun Aug 02 00:00:00 KST 2020, temperature=24.9, windVelocity=2.3, relativeHumidity=96.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Mon Aug 03 00:00:00 KST 2020,25.0,3.0,96.3
+CurrentConditionsDisplay [dateTime=Mon Aug 03 00:00:00 KST 2020, temperature=25.0, windVelocity=3.0, relativeHumidity=96.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Tue Aug 04 00:00:00 KST 2020,27.0,3.5,89.3
+CurrentConditionsDisplay [dateTime=Tue Aug 04 00:00:00 KST 2020, temperature=27.0, windVelocity=3.5, relativeHumidity=89.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Wed Aug 05 00:00:00 KST 2020,26.5,1.9,92.1
+CurrentConditionsDisplay [dateTime=Wed Aug 05 00:00:00 KST 2020, temperature=26.5, windVelocity=1.9, relativeHumidity=92.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Thu Aug 06 00:00:00 KST 2020,24.1,3.3,92.8
+CurrentConditionsDisplay [dateTime=Thu Aug 06 00:00:00 KST 2020, temperature=24.1, windVelocity=3.3, relativeHumidity=92.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Fri Aug 07 00:00:00 KST 2020,24.3,1.8,85.3
+CurrentConditionsDisplay [dateTime=Fri Aug 07 00:00:00 KST 2020, temperature=24.3, windVelocity=1.8, relativeHumidity=85.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sat Aug 08 00:00:00 KST 2020,24.2,2.3,89.5
+CurrentConditionsDisplay [dateTime=Sat Aug 08 00:00:00 KST 2020, temperature=24.2, windVelocity=2.3, relativeHumidity=89.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sun Aug 09 00:00:00 KST 2020,24.9,2.6,95.4
+CurrentConditionsDisplay [dateTime=Sun Aug 09 00:00:00 KST 2020, temperature=24.9, windVelocity=2.6, relativeHumidity=95.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Mon Aug 10 00:00:00 KST 2020,26.5,2.0,91.6
+CurrentConditionsDisplay [dateTime=Mon Aug 10 00:00:00 KST 2020, temperature=26.5, windVelocity=2.0, relativeHumidity=91.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Tue Aug 11 00:00:00 KST 2020,24.6,2.2,92.5
+CurrentConditionsDisplay [dateTime=Tue Aug 11 00:00:00 KST 2020, temperature=24.6, windVelocity=2.2, relativeHumidity=92.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Wed Aug 12 00:00:00 KST 2020,27.2,1.9,83.9
+CurrentConditionsDisplay [dateTime=Wed Aug 12 00:00:00 KST 2020, temperature=27.2, windVelocity=1.9, relativeHumidity=83.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Aug 13 00:00:00 KST 2020,28.0,2.5,82.4
+CurrentConditionsDisplay [dateTime=Thu Aug 13 00:00:00 KST 2020, temperature=28.0, windVelocity=2.5, relativeHumidity=82.4]
+HeatIndexDisplay [index=USUAL]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Aug 14 00:00:00 KST 2020,27.1,3.5,86.1
+CurrentConditionsDisplay [dateTime=Fri Aug 14 00:00:00 KST 2020, temperature=27.1, windVelocity=3.5, relativeHumidity=86.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sat Aug 15 00:00:00 KST 2020,26.1,1.9,96.0
+CurrentConditionsDisplay [dateTime=Sat Aug 15 00:00:00 KST 2020, temperature=26.1, windVelocity=1.9, relativeHumidity=96.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Sun Aug 16 00:00:00 KST 2020,27.4,3.0,82.6
+CurrentConditionsDisplay [dateTime=Sun Aug 16 00:00:00 KST 2020, temperature=27.4, windVelocity=3.0, relativeHumidity=82.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Mon Aug 17 00:00:00 KST 2020,28.2,2.3,77.9
+CurrentConditionsDisplay [dateTime=Mon Aug 17 00:00:00 KST 2020, temperature=28.2, windVelocity=2.3, relativeHumidity=77.9]
+HeatIndexDisplay [index=USUAL]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Aug 18 00:00:00 KST 2020,27.5,1.6,76.3
+CurrentConditionsDisplay [dateTime=Tue Aug 18 00:00:00 KST 2020, temperature=27.5, windVelocity=1.6, relativeHumidity=76.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Wed Aug 19 00:00:00 KST 2020,27.1,2.0,76.8
+CurrentConditionsDisplay [dateTime=Wed Aug 19 00:00:00 KST 2020, temperature=27.1, windVelocity=2.0, relativeHumidity=76.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Aug 20 00:00:00 KST 2020,27.7,1.7,76.0
+CurrentConditionsDisplay [dateTime=Thu Aug 20 00:00:00 KST 2020, temperature=27.7, windVelocity=1.7, relativeHumidity=76.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Aug 21 00:00:00 KST 2020,26.6,1.6,83.1
+CurrentConditionsDisplay [dateTime=Fri Aug 21 00:00:00 KST 2020, temperature=26.6, windVelocity=1.6, relativeHumidity=83.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sat Aug 22 00:00:00 KST 2020,24.3,2.1,87.4
+CurrentConditionsDisplay [dateTime=Sat Aug 22 00:00:00 KST 2020, temperature=24.3, windVelocity=2.1, relativeHumidity=87.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sun Aug 23 00:00:00 KST 2020,25.3,1.9,78.4
+CurrentConditionsDisplay [dateTime=Sun Aug 23 00:00:00 KST 2020, temperature=25.3, windVelocity=1.9, relativeHumidity=78.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Mon Aug 24 00:00:00 KST 2020,27.8,2.2,71.6
+CurrentConditionsDisplay [dateTime=Mon Aug 24 00:00:00 KST 2020, temperature=27.8, windVelocity=2.2, relativeHumidity=71.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Tue Aug 25 00:00:00 KST 2020,29.9,2.1,69.5
+CurrentConditionsDisplay [dateTime=Tue Aug 25 00:00:00 KST 2020, temperature=29.9, windVelocity=2.1, relativeHumidity=69.5]
+HeatIndexDisplay [index=USUAL]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Aug 26 00:00:00 KST 2020,30.2,3.4,68.3
+CurrentConditionsDisplay [dateTime=Wed Aug 26 00:00:00 KST 2020, temperature=30.2, windVelocity=3.4, relativeHumidity=68.3]
+HeatIndexDisplay [index=USUAL]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Thu Aug 27 00:00:00 KST 2020,27.1,3.6,84.6
+CurrentConditionsDisplay [dateTime=Thu Aug 27 00:00:00 KST 2020, temperature=27.1, windVelocity=3.6, relativeHumidity=84.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Aug 28 00:00:00 KST 2020,27.3,1.6,89.1
+CurrentConditionsDisplay [dateTime=Fri Aug 28 00:00:00 KST 2020, temperature=27.3, windVelocity=1.6, relativeHumidity=89.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Sat Aug 29 00:00:00 KST 2020,26.8,1.3,90.1
+CurrentConditionsDisplay [dateTime=Sat Aug 29 00:00:00 KST 2020, temperature=26.8, windVelocity=1.3, relativeHumidity=90.1]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=HIGH]
+
+ [notifyObservers ] Sun Aug 30 00:00:00 KST 2020,26.8,2.1,88.8
+CurrentConditionsDisplay [dateTime=Sun Aug 30 00:00:00 KST 2020, temperature=26.8, windVelocity=2.1, relativeHumidity=88.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Mon Aug 31 00:00:00 KST 2020,26.4,2.8,77.9
+CurrentConditionsDisplay [dateTime=Mon Aug 31 00:00:00 KST 2020, temperature=26.4, windVelocity=2.8, relativeHumidity=77.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Sep 01 00:00:00 KST 2020,26.6,1.9,72.4
+CurrentConditionsDisplay [dateTime=Tue Sep 01 00:00:00 KST 2020, temperature=26.6, windVelocity=1.9, relativeHumidity=72.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Sep 02 00:00:00 KST 2020,24.3,2.3,91.3
+CurrentConditionsDisplay [dateTime=Wed Sep 02 00:00:00 KST 2020, temperature=24.3, windVelocity=2.3, relativeHumidity=91.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Sep 03 00:00:00 KST 2020,22.7,4.8,82.0
+CurrentConditionsDisplay [dateTime=Thu Sep 03 00:00:00 KST 2020, temperature=22.7, windVelocity=4.8, relativeHumidity=82.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Fri Sep 04 00:00:00 KST 2020,23.3,2.7,63.9
+CurrentConditionsDisplay [dateTime=Fri Sep 04 00:00:00 KST 2020, temperature=23.3, windVelocity=2.7, relativeHumidity=63.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Sep 05 00:00:00 KST 2020,23.3,2.0,66.6
+CurrentConditionsDisplay [dateTime=Sat Sep 05 00:00:00 KST 2020, temperature=23.3, windVelocity=2.0, relativeHumidity=66.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Sep 06 00:00:00 KST 2020,21.7,2.7,80.0
+CurrentConditionsDisplay [dateTime=Sun Sep 06 00:00:00 KST 2020, temperature=21.7, windVelocity=2.7, relativeHumidity=80.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Mon Sep 07 00:00:00 KST 2020,19.2,4.2,93.5
+CurrentConditionsDisplay [dateTime=Mon Sep 07 00:00:00 KST 2020, temperature=19.2, windVelocity=4.2, relativeHumidity=93.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Sep 08 00:00:00 KST 2020,23.4,4.2,71.5
+CurrentConditionsDisplay [dateTime=Tue Sep 08 00:00:00 KST 2020, temperature=23.4, windVelocity=4.2, relativeHumidity=71.5]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Sep 09 00:00:00 KST 2020,21.1,2.1,83.4
+CurrentConditionsDisplay [dateTime=Wed Sep 09 00:00:00 KST 2020, temperature=21.1, windVelocity=2.1, relativeHumidity=83.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Sep 10 00:00:00 KST 2020,22.8,2.0,75.8
+CurrentConditionsDisplay [dateTime=Thu Sep 10 00:00:00 KST 2020, temperature=22.8, windVelocity=2.0, relativeHumidity=75.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Fri Sep 11 00:00:00 KST 2020,22.4,2.8,72.6
+CurrentConditionsDisplay [dateTime=Fri Sep 11 00:00:00 KST 2020, temperature=22.4, windVelocity=2.8, relativeHumidity=72.6]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sat Sep 12 00:00:00 KST 2020,20.2,2.0,83.8
+CurrentConditionsDisplay [dateTime=Sat Sep 12 00:00:00 KST 2020, temperature=20.2, windVelocity=2.0, relativeHumidity=83.8]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Sun Sep 13 00:00:00 KST 2020,21.5,1.9,70.4
+CurrentConditionsDisplay [dateTime=Sun Sep 13 00:00:00 KST 2020, temperature=21.5, windVelocity=1.9, relativeHumidity=70.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Sep 14 00:00:00 KST 2020,21.3,1.8,79.3
+CurrentConditionsDisplay [dateTime=Mon Sep 14 00:00:00 KST 2020, temperature=21.3, windVelocity=1.8, relativeHumidity=79.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Tue Sep 15 00:00:00 KST 2020,23.0,1.6,76.4
+CurrentConditionsDisplay [dateTime=Tue Sep 15 00:00:00 KST 2020, temperature=23.0, windVelocity=1.6, relativeHumidity=76.4]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=LOW]
+
+ [notifyObservers ] Wed Sep 16 00:00:00 KST 2020,22.5,1.9,79.9
+CurrentConditionsDisplay [dateTime=Wed Sep 16 00:00:00 KST 2020, temperature=22.5, windVelocity=1.9, relativeHumidity=79.9]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+DecompositionIndexDisplay [index=NORMAL]
+
+ [notifyObservers ] Thu Sep 17 00:00:00 KST 2020,21.3,2.1,70.3
+CurrentConditionsDisplay [dateTime=Thu Sep 17 00:00:00 KST 2020, temperature=21.3, windVelocity=2.1, relativeHumidity=70.3]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+
+ [notifyObservers ] Fri Sep 18 00:00:00 KST 2020,21.5,2.8,62.0
+CurrentConditionsDisplay [dateTime=Fri Sep 18 00:00:00 KST 2020, temperature=21.5, windVelocity=2.8, relativeHumidity=62.0]
+HeatIndexDisplay [index=LOW]
+WindChillTemperatureIndexDisplay [index=AWARE]
+
+ [notifyObservers ] Sat Sep 19 00:00:00 KST 2020,21.2,2.2,59.3
+CurrentConditionsDisplay [dateTime=Sat Sep 19 00:00:00 KST 2020, temperature=21.2, windVelocity=2.2, relativeHumidity=59.3]
+HeatIndexDisplay [index=LOW]
+
+ [notifyObservers ] Sun Sep 20 00:00:00 KST 2020,19.7,2.0,57.6
+CurrentConditionsDisplay [dateTime=Sun Sep 20 00:00:00 KST 2020, temperature=19.7, windVelocity=2.0, relativeHumidity=57.6]
+HeatIndexDisplay [index=LOW]
+
+ [notifyObservers ] Mon Sep 21 00:00:00 KST 2020,19.1,1.7,56.1
+CurrentConditionsDisplay [dateTime=Mon Sep 21 00:00:00 KST 2020, temperature=19.1, windVelocity=1.7, relativeHumidity=56.1]
+
+ [notifyObservers ] Tue Sep 22 00:00:00 KST 2020,20.2,2.8,55.3
+CurrentConditionsDisplay [dateTime=Tue Sep 22 00:00:00 KST 2020, temperature=20.2, windVelocity=2.8, relativeHumidity=55.3]
+
+ [notifyObservers ] Wed Sep 23 00:00:00 KST 2020,19.2,3.3,59.9
