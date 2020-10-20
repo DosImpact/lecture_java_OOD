@@ -24,6 +24,7 @@ public class WordProcessor {
 			System.out.println("cannot converDocumentTo "+ext+" file format");
 		}
 	}
+	
 	// 스펠 체커를 등록합니다.
 	public void setSpellChcker(ISpellChecker spellChecker) {
 		this.spellChecker = spellChecker;

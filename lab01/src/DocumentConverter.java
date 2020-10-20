@@ -5,6 +5,7 @@ public abstract class DocumentConverter {
 	public DocumentConverter(String extension) {
 		this.ext = extension;
 	}
+	
 	public String getExtension() {
 		return this.ext;
 	}

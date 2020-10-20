@@ -28,8 +28,8 @@ public class MainTest {
 	//디렉터리를 읽어서  모든 하위 디렉터리까지 파일 정보를 리스트로 저장합니다.
 	public List<FileInfo> getFileInfos(String dirPath){
 		// 경로의 파일과 디렉터리를 읽습니다.
-		File dir = new File(dirPath);
-		File[] sub =  dir.listFiles();
+		File dir = new File(dirPath); // 해당 path의 파일을 읽습니다.
+		File[] sub =  dir.listFiles(); // 해당 path의 파일목록을 가져옵니다.
 		for(File s :sub) {
 			
 			// 디렉터리인 경우 해당 재귀호출을 통해 하위 경로로 들어가서 파일과 디렉터리를 읽습니다. 그리고 리스트에 추가합니다.
