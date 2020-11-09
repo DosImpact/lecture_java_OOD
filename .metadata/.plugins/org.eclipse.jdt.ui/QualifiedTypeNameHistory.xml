@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="startbuzzCoffee.Mocha"/>
-<fullyQualifiedTypeName name="startbuzzCoffee.Whip"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="java.lang.Character"/>
-<fullyQualifiedTypeName name="java.io.InputStream"/>
-<fullyQualifiedTypeName name="lowerCaseInput.LowerCaseInputStream"/>
-<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
-<fullyQualifiedTypeName name="java.io.FileInputStream"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="ShapeDecorator.ShapeDecorator"/>
-<fullyQualifiedTypeName name="ShapeDecorator.Circle"/>
-<fullyQualifiedTypeName name="ShapeDecorator.Rectangle"/>
-<fullyQualifiedTypeName name="ShapeDecorator.Triangle"/>
-<fullyQualifiedTypeName name="TshirtDecorator"/>
 <fullyQualifiedTypeName name="SweatShirt"/>
 <fullyQualifiedTypeName name="TreeDecorator"/>
 <fullyQualifiedTypeName name="TextDecorator"/>
@@ -60,4 +46,18 @@
 <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
 <fullyQualifiedTypeName name="Button.AngelListener"/>
 <fullyQualifiedTypeName name="Button.DevilListener"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ConcurrentMap"/>
+<fullyQualifiedTypeName name="remote.command.NoCommand"/>
+<fullyQualifiedTypeName name="remote.command.Command"/>
+<fullyQualifiedTypeName name="remote.command.RemoteControl"/>
+<fullyQualifiedTypeName name="remote.entity.Light"/>
+<fullyQualifiedTypeName name="remote.entity.CeilingFan"/>
+<fullyQualifiedTypeName name="remote.entity.Stereo"/>
+<fullyQualifiedTypeName name="remote.entity.TV"/>
+<fullyQualifiedTypeName name="remote.commands.StereoOffCommand"/>
+<fullyQualifiedTypeName name="remote.commands.StereoOnWithCDCommand"/>
+<fullyQualifiedTypeName name="remote.commands.TVOffCommand"/>
+<fullyQualifiedTypeName name="remote.commands.TVOnCommand"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 </qualifiedTypeNameHistroy>
