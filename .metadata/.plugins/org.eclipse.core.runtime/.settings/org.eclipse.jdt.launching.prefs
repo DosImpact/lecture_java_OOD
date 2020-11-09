@@ -1,7 +1,6 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=789faa920333a2f38521e18a1190b9fd0d246435
 eclipse.preferences.version=1
 org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
-<<<<<<< HEAD
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1600489470201" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1600489470201" name\="jre1.8.0_221" path\="C\:\\Program Files\\Java\\jre1.8.0_221"/>\r\n</vmType>\r\n</vmSettings>\r\n
-=======
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType13,1601787357259" defaultVMConnector\="">\n    <vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n        <vm id\="1601787357259" name\="JRE [14.0.2]" path\="/Users/doyoung/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_14.0.2.v20200815-0932/jre"/>\n    </vmType>\n</vmSettings>\n
->>>>>>> 789faa920333a2f38521e18a1190b9fd0d246435
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1604912280968" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1604912280968" name\="jre1.8.0_221" path\="C\:\\Program Files\\Java\\jre1.8.0_221"/>\r\n</vmType>\r\n</vmSettings>\r\n

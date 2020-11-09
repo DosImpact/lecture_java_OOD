@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 INDEX VERSION 1.131+D:\Java_Lectrue\.metadata\.plugins\org.eclipse.jdt.core
 3148887510.index
 1459523266.index
@@ -9,9 +8,9 @@ INDEX VERSION 1.131+D:\Java_Lectrue\.metadata\.plugins\org.eclipse.jdt.core
 2772419465.index
 379664343.index
 1968463636.index
+364096953.index
 2755271588.index
 2975910402.index
-364096953.index
 165794779.index
 3429681154.index
 2692201997.index
@@ -31,12 +30,3 @@ INDEX VERSION 1.131+D:\Java_Lectrue\.metadata\.plugins\org.eclipse.jdt.core
 2060039664.index
 3491580546.index
 646436966.index
-=======
-INDEX VERSION 1.131+/Users/doyoung/eclipse-workspace/lecture_java_OOD/.metadata/.plugins/org.eclipse.jdt.core
-861118734.index
-3298976855.index
-3531009617.index
-3013956801.index
-3162152964.index
-1571501549.index
->>>>>>> 789faa920333a2f38521e18a1190b9fd0d246435

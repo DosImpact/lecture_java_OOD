@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="undo"/>
 		<list key="findhistory">
+			<item value="remote"/>
 			<item value="ㄴ"/>
 			<item value="ChciagoStyle"/>
 			<item value="Offical"/>
@@ -22,6 +23,7 @@
 			<item value="pressOpen"/>
 		</list>
 		<list key="replacehistory">
+			<item value="undo"/>
 			<item value=""/>
 			<item value=" Ab"/>
 			<item value="Veggle "/>
