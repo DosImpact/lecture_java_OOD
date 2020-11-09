@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // 스레드 예제
+=======
+
+>>>>>>> 789faa920333a2f38521e18a1190b9fd0d246435
 public class SampleRunnerable implements Runnable {
 	
 	private int[] tmp;
