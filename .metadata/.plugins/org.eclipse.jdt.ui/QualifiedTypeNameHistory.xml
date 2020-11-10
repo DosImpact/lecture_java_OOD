@@ -2,4 +2,12 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="undo.command.RemoteControl"/>
 <fullyQualifiedTypeName name="undo.command.Command"/>
+<fullyQualifiedTypeName name="remote.entity.CeilingFan"/>
+<fullyQualifiedTypeName name="undo.entity.CeilingFan"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="command.Command"/>
+<fullyQualifiedTypeName name="java.awt.Shape"/>
+<fullyQualifiedTypeName name="Command"/>
+<fullyQualifiedTypeName name="MoveUpCommand"/>
+<fullyQualifiedTypeName name="ShapeMoveControl"/>
 </qualifiedTypeNameHistroy>
