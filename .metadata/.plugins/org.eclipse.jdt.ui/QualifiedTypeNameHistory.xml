@@ -10,4 +10,13 @@
 <fullyQualifiedTypeName name="Command"/>
 <fullyQualifiedTypeName name="MoveUpCommand"/>
 <fullyQualifiedTypeName name="ShapeMoveControl"/>
+<fullyQualifiedTypeName name="PersonDynamicArray"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.lang.Iterable"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="DataList"/>
+<fullyQualifiedTypeName name="DataListAdapter"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="Person"/>
+<fullyQualifiedTypeName name="DynamicArray"/>
 </qualifiedTypeNameHistroy>

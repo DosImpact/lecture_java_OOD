@@ -6,6 +6,7 @@ public class MainTest {
 	public static void main(String[] args) {
 		System.out.println("Dynamic Array add & print String");
 		
+		// 동적배열 테스트
 		DynamicArray<String> dynamicArray2 = new DynamicArray<>(5);
 		dynamicArray2.add("hello1");
 		dynamicArray2.add("hello2");
@@ -21,7 +22,7 @@ public class MainTest {
 		for(String s : dynamicArray2) {
 			System.out.println(s);
 		}
-		
+		// 동적배열 테스트 (제너릭)
 		System.out.println("Dynamic Array add & print Person");
 		
 		DynamicArray<Person> dynamicArray = new DynamicArray<Person>(5);
@@ -34,7 +35,7 @@ public class MainTest {
 			Person p = it.next();
 			System.out.println(p);
 		}
-		
+		// 어댑터 테스트 
 		System.out.println("DataListAdapter  add & print String");
 		
 		DataList<String> dataList3 = new DataListAdapter<>(new ArrayList<>());
@@ -44,14 +45,14 @@ public class MainTest {
 		dataList3.add("Adapter 04");
 		
 		Iterator<String> it3 = dataList3.iterator();
-		while(it3.hasNext()) {
+		while(it3.hasNext()) { 
 			String p = it3.next();
 			System.out.println(p);
 		}
 		
 		
 		System.out.println("DataListAdapter  add & print Person");
-		
+		// 어댑터 테스트 - Person
 		DataList<Person> dataList4 = new DataListAdapter<>(new ArrayList<>());
 		dataList4.add(new Person("AD User01", 10));
 		dataList4.add(new Person("AD User02", 20));
