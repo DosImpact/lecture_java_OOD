@@ -19,4 +19,16 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="Person"/>
 <fullyQualifiedTypeName name="DynamicArray"/>
+<fullyQualifiedTypeName name="sorter.Person"/>
+<fullyQualifiedTypeName name="sorter.AbstractSorter"/>
+<fullyQualifiedTypeName name="sorter.NameSorter"/>
+<fullyQualifiedTypeName name="barista.CaffeineBeverage"/>
+<fullyQualifiedTypeName name="barista.Coffee"/>
+<fullyQualifiedTypeName name="barista.Tea"/>
+<fullyQualifiedTypeName name="barista.CaffeineBeverageWithHook"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="barista.CoffeeWithHook"/>
+<fullyQualifiedTypeName name="barista.TeaWithHook"/>
 </qualifiedTypeNameHistroy>
