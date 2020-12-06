@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="undo"/>
+		<item key="selection" value="&quot;DoubleParser : &quot;"/>
 		<list key="findhistory">
+			<item value="&quot;DoubleParser&quot;"/>
 			<item value="remote"/>
 			<item value="ㄴ"/>
 			<item value="ChciagoStyle"/>
@@ -23,6 +24,7 @@
 			<item value="pressOpen"/>
 		</list>
 		<list key="replacehistory">
+			<item value="&quot;DoubleParser : &quot;"/>
 			<item value="undo"/>
 			<item value=""/>
 			<item value=" Ab"/>

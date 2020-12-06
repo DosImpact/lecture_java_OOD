@@ -7,6 +7,7 @@ public class CeilingFanWithState {
 	State lowState;
 	State mediumState;
 	State highState;
+	
 	State state;
 	
 		

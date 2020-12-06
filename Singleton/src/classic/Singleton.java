@@ -1,6 +1,7 @@
 package classic;
 
 //1.classic - instance변수의 null체크를 한 후 객체를 할당합니다.
+// 멀티스레드 환경에서 싱글톤을 유지할 수 없습니다.
 public class Singleton {
 	// private 싱글톤 변수 및 생성자
 	private static Singleton instance;

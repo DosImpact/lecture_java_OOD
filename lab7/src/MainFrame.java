@@ -105,38 +105,23 @@ public class MainFrame extends JFrame implements ActionListener, ItemListener {
     @Override
     public void itemStateChanged(ItemEvent e) {
         if (e.getStateChange() == ItemEvent.SELECTED) {
+        	displayPanel.remove(product); 
 //        	System.out.println(combobox.getSelectedItem());
         	// Triangle º±≈√µ 
             if (combobox.getSelectedItem() == comboboxItems[0] ) { 
-                                                                                     
-                displayPanel.remove(product); 
                 product = products[0]; 
-                displayPanel.add(product); 
-                displayPanel.revalidate();
-                displayPanel.repaint();
              // Rectangle º±≈√µ 
             } else if (combobox.getSelectedItem() == comboboxItems[1] ) {
-
-                displayPanel.remove(product);
                 product = products[1];
-                displayPanel.add(product);
-                displayPanel.revalidate();
-                displayPanel.repaint();
              // Circle º±≈√µ 
             } else if (combobox.getSelectedItem() == comboboxItems[2] ) {
-
-                displayPanel.remove(product);
                 product = products[2];
-                displayPanel.add(product);
-                displayPanel.revalidate();
-                displayPanel.repaint();
             } else {
-                displayPanel.remove(product);
                 product = products[0];
-                displayPanel.add(product);
-                displayPanel.revalidate();
-                displayPanel.repaint();
             }
+            displayPanel.add(product); 
+            displayPanel.revalidate();
+            displayPanel.repaint();
         }
     }
 

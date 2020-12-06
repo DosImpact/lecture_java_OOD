@@ -9,6 +9,7 @@ public class MainTest {
 	public static boolean getUserExitKey() {
 		System.out.println("Continue? (q)uit");
 		String s = input.nextLine();
+//		System.out.println(s);
 		if(s.contentEquals("q")) {
 			return  true;
 		}
